@@ -5,6 +5,8 @@ from collections import OrderedDict
 import matplotlib.pyplot as plt 
 import seaborn as sns
 from sklearn.feature_selection import SelectKBest
+from sklearn.feature_selection import f_regression
+import sqlite3
 
 def select_k_best(df, k):
     X = df.drop(['Won'], axis=1)
@@ -28,8 +30,11 @@ def remove_high_correlation(df):
     df = df.drop(correlated_features, axis=1)
     return df
 
+def sandbox(patient, district, statewise_testing, zones, hospital_beds, icmr, district_census, state_census):
+    merge = patient.merge(district, left_on=['Date_Announced', 'District', 'State'], right_on=['date', 'district', 'State'])
+    print(merge)
+
 def main():
-    state_wise_daily_refined = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\state-wise-daily-refined.csv")
     patient_city_district_may_5_refined = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\patient-city-district-refined.csv")
     districts_daily_refined = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\districts-daily-refined.csv")
     statewise_testing_refined = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\statewise-testing-refined.csv")
@@ -40,15 +45,16 @@ def main():
     district_census = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\additional_data\district_population_india_census2011.csv")
     state_census = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\additional_data\state_population_india_census2011.csv")
 
-    print(state_wise_daily_refined.columns) #Date, Status, the 4 states
-    print(patient_city_district_may_5_refined.columns) #Date_Announced, Age, Gender, City, District, State, Nationality
-    print(districts_daily_refined.columns) #State, district, date, confirmed, active, recovered, deceased
-    print(statewise_testing_refined.columns) #Date, State, TotalSamples, Negative, Positive
+    print(patient_city_district_may_5_refined.columns) #Date_Announced, City, District, State
+    print(districts_daily_refined.columns) #State, district, date
+    print(statewise_testing_refined.columns) #Date, State
     print(zones_refined.columns) #district, state, zone
-    print(hospital_beds.columns) #state, 
-    print(icmr.columns)
-    print(district_census.columns)
-    print(state_census.columns)
+    print(hospital_beds.columns) #state
+    print(icmr.columns) #city, state
+    print(district_census.columns) #district, state
+    print(state_census.columns) #State / Union Territory
+    sandbox(patient_city_district_may_5_refined, districts_daily_refined, statewise_testing_refined,
+     zones_refined, hospital_beds, icmr, district_census, state_census)
 
 
 if __name__=="__main__":
