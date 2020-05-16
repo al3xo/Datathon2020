@@ -28,20 +28,11 @@ def refine_zones(df):
     df = df.drop(['districtcode', 'lastupdated', 'source'], axis=1)
     return df
 
-def combine_dates(districts, patients, state_wise_daily, statewise_testing, zones):
-    date1 = districts['date'].to_frame()
-    date2 = patients['Date_Announced'].to_frame()
-    date3 = state_wise_daily['Date'].to_frame()
-    date4 = statewise_testing['Date'].to_frame()
-    grouped = pd.concat([date1, date2, date3, date4], ignore_index=True)
-    grouped = grouped.fillna('')
-    grouped['Date'] = grouped['Date'] + grouped['Date_Announced'] + grouped['date']
-    grouped = grouped['Date'].to_frame().sort_values('Date')
-    grouped = grouped.drop_duplicates()
-    grouped['DaysFromFirstDate'] = 0
-    xs = [list(g) for k, g in groupby(grouped['Date'].tolist())]
-    grouped['DaysFromFirstDate'] += np.repeat(range(len(xs)),[len(x) for x in xs])
-    return grouped
+def refine_icmr(df):
+    df = df.filter(['state', 'type'])
+    df = pd.get_dummies(df, columns=['type'])
+    df = df.groupby('state').agg('sum')
+    return df
 
 def combine_dates(districts, patients, state_wise_daily, statewise_testing):
     date1 = districts['date'].to_frame()
@@ -78,6 +69,9 @@ def main():
     zones = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\additional_data\zones.csv")
     zones_refined = refine_zones(zones)
 
+    icmr = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\additional_data\ICMRTestingLabs.csv")
+    icmr_refined = refine_icmr(icmr)
+
     districts_daily_refined, patient_city_district_may_5_refined, state_wise_daily_refined, statewise_testing_refined = combine_dates(districts_daily_refined, patient_city_district_may_5_refined, state_wise_daily_refined, statewise_testing_refined)
 
     state_wise_daily_refined.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\state-wise-daily-refined.csv")
@@ -85,6 +79,7 @@ def main():
     districts_daily_refined.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\districts-daily-refined.csv")
     statewise_testing_refined.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\statewise-testing-refined.csv")
     zones_refined.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\zones-refined.csv")
+    icmr_refined.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\icmr-refined.csv")
 
 if __name__ == "__main__":
     main()

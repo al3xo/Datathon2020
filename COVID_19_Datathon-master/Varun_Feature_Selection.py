@@ -30,32 +30,35 @@ def remove_high_correlation(df):
     df = df.drop(correlated_features, axis=1)
     return df
 
-def sandbox(patient, district, statewise_testing, zones, hospital_beds, icmr, district_census, state_census):
-    merge = patient.merge(district, left_on=['Date_Announced', 'District', 'State'], right_on=['date', 'district', 'State'])
-    print(merge)
+def merge_dfs(patient, district, statewise_testing, zones, hospital_beds, icmr, district_census, state_census):
+    merged = patient.merge(district, left_on=['Date_Announced', 'Detected_District', 'Detected_State', 'DaysFromFirstDate'], right_on=['date', 'district', 'State', 'DaysFromFirstDate'])
+    merged = merged.drop(['Detected_City', 'Date_Announced', 'Detected_District', 'Detected_State'], axis=1)
+    nas = merged['Age_Bracket'].ne('Unknown') & merged['Gender'].ne('Unknown')
+    merged = merged[nas]
+    merged = merged.merge(statewise_testing, left_on=['date', 'State', 'DaysFromFirstDate'], right_on=['Date', 'State', 'DaysFromFirstDate']).drop('date', axis=1)
+    merged = merged.merge(zones, left_on=['district', 'State'], right_on=['district', 'state']).drop('state', axis=1)
+    merged = merged.merge(hospital_beds, left_on='State', right_on='State/UT', how='left').drop('State/UT', axis=1)
+    bed_cols = ['NumPrimaryHealthCenters_HMIS', 'NumCommunityHealthCenters_HMIS',
+     'NumSubDistrictHospitals_HMIS', 'NumDistrictHospitals_HMIS', 'TotalPublicHealthFacilities_HMIS',
+     'NumPublicBeds_HMIS', 'NumRuralHospitals_NHP18', 'NumRuralBeds_NHP18', 'NumUrbanHospitals_NHP18',
+     'NumUrbanBeds_NHP18']
+    merged[bed_cols] = merged[bed_cols].fillna(0)
+    merged = merged.merge(icmr, left_on='State', right_on='state').drop('state', axis=1)
+    return merged
 
 def main():
-    patient_city_district_may_5_refined = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\patient-city-district-refined.csv")
-    districts_daily_refined = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\districts-daily-refined.csv")
+    patient_city_district_may_5_refined = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\patient-city-district-refined.csv").drop('Unnamed: 0', axis=1)
+    districts_daily_refined = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\districts-daily-refined.csv").drop('Unnamed: 0', axis=1)
     statewise_testing_refined = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\statewise-testing-refined.csv")
     zones_refined = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\zones-refined.csv")
     
     hospital_beds = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\additional_data\HospitalBedsIndia.csv")
-    icmr = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\additional_data\ICMRTestingLabs.csv")
+    icmr = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\icmr-refined.csv")
     district_census = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\additional_data\district_population_india_census2011.csv")
     state_census = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\additional_data\state_population_india_census2011.csv")
-
-    print(patient_city_district_may_5_refined.columns) #Date_Announced, City, District, State
-    print(districts_daily_refined.columns) #State, district, date
-    print(statewise_testing_refined.columns) #Date, State
-    print(zones_refined.columns) #district, state, zone
-    print(hospital_beds.columns) #state
-    print(icmr.columns) #city, state
-    print(district_census.columns) #district, state
-    print(state_census.columns) #State / Union Territory
-    sandbox(patient_city_district_may_5_refined, districts_daily_refined, statewise_testing_refined,
+    merged = merge_dfs(patient_city_district_may_5_refined, districts_daily_refined, statewise_testing_refined,
      zones_refined, hospital_beds, icmr, district_census, state_census)
-
+    merged.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\patient-to-icmr-merge.csv")
 
 if __name__=="__main__":
     main()
