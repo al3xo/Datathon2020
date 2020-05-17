@@ -31,9 +31,9 @@ def remove_high_correlation(df):
     return df
 
 def main():
-    final = pd.read_csv(r"C:\Users\Alex Omusoru\Documents\GitHub\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\final-merge.csv", encoding='cp1252')
+    final = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\final-merge.csv", encoding='cp1252')
     final = final.drop(['Contracted_from_which Patient_Suspected', 'Notes', 'Type_of_transmission',
-     'Unnamed: 0_x', 'Unnamed: 0_y', 'Sno', 'statecode', 'Age_Bracket'], axis=1)
+     'Unnamed: 0_x', 'Unnamed: 0_y', 'Unnamed: 0.1', 'Sno', 'statecode', 'Age_Bracket'], axis=1)
     final = pd.get_dummies(final, columns=['Gender']).drop('Unnamed: 0', axis=1)
 
     final = final.sort_values('Date')
@@ -51,9 +51,13 @@ def main():
     ORDER BY DaysFromFirstDate, State, district
     '''
     df = pd.read_sql_query(qry, conn)
-    df.to_csv(r"C:\Users\Alex Omusoru\Documents\GitHub\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\final_merge_cleaned.csv", encoding="cp1252")
-    
-    
+    cols = list(set(df.columns)-set(['Gender_F', 'Gender_M', 'Gender_Non-Binary']))
+    genders = ['Gender_F', 'Gender_M', 'Gender_Non-Binary']
+    new_df = df.filter(cols)
+    new_df = new_df.drop_duplicates()
+    df = df.groupby(['DaysFromFirstDate','State','district'])['Gender_F', 'Gender_M', 'Gender_Non-Binary'].sum().reset_index()
+    merged = df.merge(new_df, on=['DaysFromFirstDate', 'State', 'district'])
+    merged.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\final_merge_cleaned.csv", encoding="cp1252") 
 
 if __name__=="__main__":
     main()
