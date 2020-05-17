@@ -32,8 +32,16 @@ def main():
     new_df = df.filter(cols)
     new_df = new_df.drop_duplicates()
     df = df.groupby(['DaysFromFirstDate','State','district'])['Gender_F', 'Gender_M', 'Gender_Non-Binary'].sum().reset_index()
-    merged = df.merge(new_df, on=['DaysFromFirstDate', 'State', 'district']).drop('Date', axis=1)
-    merged.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\final_merge_cleaned.csv", encoding="cp1252") 
+    merged = df.merge(new_df, on=['DaysFromFirstDate', 'State', 'district']).drop(['Date', 'Nationality'], axis=1)
+    #merged.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\final_merge_cleaned.csv", encoding="cp1252")
+    districts = ['Mumbai', 'Delhi', 'Ahmedabad', 'Chennai']
+    states = ['Maharashtra', 'Delhi', 'Tamil Nadu', 'Gujarat']
+    instate = merged['State'].isin(states)
+    indist = merged['district'].isin(districts)
+    states_df = merged[instate]
+    dist_df = merged[indist]
+    states_df.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\4-states-only.csv", encoding="cp1252")
+    dist_df.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\4-districts-only.csv", encoding="cp1252")
 
 if __name__=="__main__":
     main()
