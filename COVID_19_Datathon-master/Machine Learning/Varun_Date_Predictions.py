@@ -15,18 +15,18 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import cross_val_score
 
 def select_k_best(df, k):
-    X = df.drop(['Positive'], axis=1)
-    y = df['Positive']
+    X = df.drop(['DaysFromFirstDate'], axis=1)
+    y = df['DaysFromFirstDate']
     fs = SelectKBest(score_func=f_regression, k=k)
     fs.fit_transform(X, y)
     cols = fs.get_support(indices=True)
     new_df = df.iloc[:,cols]
-    new_df['Positive'] = y
+    new_df['DaysFromFirstDate'] = y
     return new_df
 
 def remove_high_correlation(df):
     correlated_features = set()
-    correlation_matrix = df.drop('Positive', axis=1).corr()
+    correlation_matrix = df.drop('DaysFromFirstDate', axis=1).corr()
     for i in range(len(correlation_matrix.columns)):
         for j in range(i):
             if abs(correlation_matrix.iloc[i, j]) > 0.8:
@@ -40,8 +40,8 @@ def model(df):
     df = pd.get_dummies(df)
     df = remove_high_correlation(df)
     df = select_k_best(df, k_val)
-    X = df.drop('Positive', axis=1)
-    y = df['Positive']
+    X = df.drop('DaysFromFirstDate', axis=1)
+    y = df['DaysFromFirstDate']
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state=42)
     sc = StandardScaler()
     X_train = sc.fit_transform(X_train)
@@ -61,8 +61,8 @@ def svr(df):
     df = pd.get_dummies(df)
     df = remove_high_correlation(df)
     df = select_k_best(df, k_val)
-    X = df.drop('Positive', axis=1)
-    y = df['Positive']
+    X = df.drop('DaysFromFirstDate', axis=1)
+    y = df['DaysFromFirstDate']
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state=42)
     sc = StandardScaler()
     X_train = sc.fit_transform(X_train)
@@ -79,8 +79,8 @@ def lasso_cv(df):
     df = pd.get_dummies(df)
     df = remove_high_correlation(df)
     df = select_k_best(df, k_val)
-    X = df.drop('Positive', axis=1)
-    y = df['Positive']
+    X = df.drop('DaysFromFirstDate', axis=1)
+    y = df['DaysFromFirstDate']
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state=42)
     sc = StandardScaler()
     X_train = sc.fit_transform(X_train)
@@ -100,8 +100,8 @@ def elastic_net(df):
     df = pd.get_dummies(df)
     df = remove_high_correlation(df)
     df = select_k_best(df, k_val)
-    X = df.drop('Positive', axis=1)
-    y = df['Positive']
+    X = df.drop('DaysFromFirstDate', axis=1)
+    y = df['DaysFromFirstDate']
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state=42)
     sc = StandardScaler()
     X_train = sc.fit_transform(X_train)

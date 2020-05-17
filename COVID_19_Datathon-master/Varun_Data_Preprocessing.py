@@ -36,6 +36,13 @@ def refine_icmr(df):
     df = df.groupby('state').agg('sum')
     return df
 
+def refine_census(df):
+    df['State name'] = df['State name'].replace('NCT OF DELHI', 'Delhi')
+    isdelhi = df['State name'].eq('Delhi')
+    df.loc[isdelhi, 'District name'] = 'Delhi'
+    df = df.groupby(['State name', 'District name']).agg("sum", axis="columns")
+    return df
+
 def combine_dates(districts, patients, state_wise_daily, statewise_testing):
     date1 = districts['date'].to_frame()
     date2 = patients['Date_Announced'].to_frame()
@@ -74,6 +81,9 @@ def main():
     icmr = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\additional_data\ICMRTestingLabs.csv")
     icmr_refined = refine_icmr(icmr)
 
+    census = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\additional_data\district_population_india_census2011.csv")
+    census_refined = refine_census(census)
+
     districts_daily_refined, patient_city_district_may_5_refined, state_wise_daily_refined, statewise_testing_refined = combine_dates(districts_daily_refined, patient_city_district_may_5_refined, state_wise_daily_refined, statewise_testing_refined)
 
     state_wise_daily_refined.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\state-wise-daily-refined.csv")
@@ -82,6 +92,7 @@ def main():
     statewise_testing_refined.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\statewise-testing-refined.csv")
     zones_refined.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\zones-refined.csv")
     icmr_refined.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\icmr-refined.csv")
+    census_refined.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\district-census-refined.csv")
 
 if __name__ == "__main__":
     main()

@@ -1,2 +1,2 @@
 Variables to consider-
-Positive, active, confirmed, deceased, recovered
+Positive, active, confirmed, deceased, recovered, date
