@@ -63,12 +63,11 @@ def main():
     merged = merge_dfs(patient_city_district_may_5_refined, districts_daily_refined, statewise_testing_refined,
      zones_refined, hospital_beds, icmr, district_census, state_census)
     #merged.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\patient-to-icmr-merge.csv")
-    census = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\census_merge.csv", encoding='unicode_escape')
-    # census = census.drop(['Sno', 'State_name'], axis=1)
-    # census = census.rename(columns={'State__Union_Territory':'State'})
-    # census.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\census_merge.csv")
+    census = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\census_merge.csv", encoding="cp1252")
+    census = census.drop(['Sno', 'State_name'], axis=1)
+    census = census.rename(columns={'State__Union_Territory':'State'})
     new_merge = merge_census(merged, census) 
-    new_merge.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\final-merge.csv", encoding='unicode_escape')
+    new_merge.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\final-merge.csv", encoding="cp1252")
 
 if __name__=="__main__":
     main()
