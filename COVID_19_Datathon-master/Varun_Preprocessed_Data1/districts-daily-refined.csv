@@ -47,15 +47,15 @@
 45,Chhattisgarh,Korba,2020-04-21,28,28,0,0,96
 46,Chhattisgarh,Raipur,2020-04-21,5,5,0,0,96
 47,Chhattisgarh,Rajnandgaon,2020-04-21,1,1,0,0,96
-48,Delhi,East Delhi,2020-04-21,1,1,0,0,96
-49,Delhi,New Delhi,2020-04-21,5,5,0,0,96
-50,Delhi,North Delhi,2020-04-21,3,3,0,0,96
-51,Delhi,North East Delhi,2020-04-21,1,1,0,0,96
-52,Delhi,North West Delhi,2020-04-21,3,3,0,0,96
-53,Delhi,South Delhi,2020-04-21,26,26,0,0,96
-54,Delhi,South West Delhi,2020-04-21,3,3,0,0,96
-55,Delhi,Unknown,2020-04-21,2112,2112,0,0,96
-56,Delhi,West Delhi,2020-04-21,2,2,0,0,96
+48,Delhi,Delhi,2020-04-21,1,1,0,0,96
+49,Delhi,Delhi,2020-04-21,5,5,0,0,96
+50,Delhi,Delhi,2020-04-21,3,3,0,0,96
+51,Delhi,Delhi,2020-04-21,1,1,0,0,96
+52,Delhi,Delhi,2020-04-21,3,3,0,0,96
+53,Delhi,Delhi,2020-04-21,26,26,0,0,96
+54,Delhi,Delhi,2020-04-21,3,3,0,0,96
+55,Delhi,Delhi,2020-04-21,2112,2112,0,0,96
+56,Delhi,Delhi,2020-04-21,2,2,0,0,96
 57,Goa,North Goa,2020-04-21,4,4,0,0,96
 58,Goa,Unknown,2020-04-21,3,3,0,0,96
 59,Gujarat,Ahmadabad,2020-04-21,1373,1373,0,0,96
@@ -482,15 +482,15 @@
 480,Chhattisgarh,Korba,2020-04-22,28,11,17,0,97
 481,Chhattisgarh,Raipur,2020-04-22,5,0,5,0,97
 482,Chhattisgarh,Rajnandgaon,2020-04-22,1,0,1,0,97
-483,Delhi,East Delhi,2020-04-22,1,1,0,0,97
-484,Delhi,New Delhi,2020-04-22,5,5,0,0,97
-485,Delhi,North Delhi,2020-04-22,3,3,0,0,97
-486,Delhi,North East Delhi,2020-04-22,1,1,0,0,97
-487,Delhi,North West Delhi,2020-04-22,3,3,0,0,97
-488,Delhi,South Delhi,2020-04-22,26,26,0,0,97
-489,Delhi,South West Delhi,2020-04-22,3,3,0,0,97
-490,Delhi,Unknown,2020-04-22,2204,2204,0,0,97
-491,Delhi,West Delhi,2020-04-22,2,2,0,0,97
+483,Delhi,Delhi,2020-04-22,1,1,0,0,97
+484,Delhi,Delhi,2020-04-22,5,5,0,0,97
+485,Delhi,Delhi,2020-04-22,3,3,0,0,97
+486,Delhi,Delhi,2020-04-22,1,1,0,0,97
+487,Delhi,Delhi,2020-04-22,3,3,0,0,97
+488,Delhi,Delhi,2020-04-22,26,26,0,0,97
+489,Delhi,Delhi,2020-04-22,3,3,0,0,97
+490,Delhi,Delhi,2020-04-22,2204,2204,0,0,97
+491,Delhi,Delhi,2020-04-22,2,2,0,0,97
 492,Goa,North Goa,2020-04-22,6,0,6,0,97
 493,Goa,South Goa,2020-04-22,1,0,1,0,97
 494,Gujarat,Ahmadabad,2020-04-22,1501,1353,86,62,97
@@ -924,18 +924,18 @@
 922,Chhattisgarh,Korba,2020-04-23,28,11,17,0,98
 923,Chhattisgarh,Raipur,2020-04-23,5,0,5,0,98
 924,Chhattisgarh,Rajnandgaon,2020-04-23,1,0,1,0,98
-925,Delhi,Central Delhi,2020-04-23,184,184,0,0,98
-926,Delhi,East Delhi,2020-04-23,38,38,0,0,98
-927,Delhi,New Delhi,2020-04-23,37,37,0,0,98
-928,Delhi,North Delhi,2020-04-23,60,60,0,0,98
-929,Delhi,North East Delhi,2020-04-23,25,25,0,0,98
-930,Delhi,North West Delhi,2020-04-23,32,32,0,0,98
-931,Delhi,Shahdara,2020-04-23,48,48,0,0,98
-932,Delhi,South Delhi,2020-04-23,70,70,0,0,98
-933,Delhi,South East Delhi,2020-04-23,130,130,0,0,98
-934,Delhi,South West Delhi,2020-04-23,42,42,0,0,98
-935,Delhi,Unknown,2020-04-23,1588,1588,0,0,98
-936,Delhi,West Delhi,2020-04-23,122,122,0,0,98
+925,Delhi,Delhi,2020-04-23,184,184,0,0,98
+926,Delhi,Delhi,2020-04-23,38,38,0,0,98
+927,Delhi,Delhi,2020-04-23,37,37,0,0,98
+928,Delhi,Delhi,2020-04-23,60,60,0,0,98
+929,Delhi,Delhi,2020-04-23,25,25,0,0,98
+930,Delhi,Delhi,2020-04-23,32,32,0,0,98
+931,Delhi,Delhi,2020-04-23,48,48,0,0,98
+932,Delhi,Delhi,2020-04-23,70,70,0,0,98
+933,Delhi,Delhi,2020-04-23,130,130,0,0,98
+934,Delhi,Delhi,2020-04-23,42,42,0,0,98
+935,Delhi,Delhi,2020-04-23,1588,1588,0,0,98
+936,Delhi,Delhi,2020-04-23,122,122,0,0,98
 937,Goa,North Goa,2020-04-23,6,0,6,0,98
 938,Goa,South Goa,2020-04-23,1,0,1,0,98
 939,Gujarat,Ahmadabad,2020-04-23,1652,1470,113,69,98
@@ -1379,18 +1379,18 @@
 1377,Chhattisgarh,Korba,2020-04-24,28,11,17,0,99
 1378,Chhattisgarh,Raipur,2020-04-24,5,0,5,0,99
 1379,Chhattisgarh,Rajnandgaon,2020-04-24,1,0,1,0,99
-1380,Delhi,Central Delhi,2020-04-24,184,184,0,0,99
-1381,Delhi,East Delhi,2020-04-24,38,38,0,0,99
-1382,Delhi,New Delhi,2020-04-24,37,37,0,0,99
-1383,Delhi,North Delhi,2020-04-24,60,60,0,0,99
-1384,Delhi,North East Delhi,2020-04-24,25,25,0,0,99
-1385,Delhi,North West Delhi,2020-04-24,32,32,0,0,99
-1386,Delhi,Shahdara,2020-04-24,48,48,0,0,99
-1387,Delhi,South Delhi,2020-04-24,70,70,0,0,99
-1388,Delhi,South East Delhi,2020-04-24,130,130,0,0,99
-1389,Delhi,South West Delhi,2020-04-24,42,42,0,0,99
-1390,Delhi,Unknown,2020-04-24,1726,816,857,53,99
-1391,Delhi,West Delhi,2020-04-24,122,122,0,0,99
+1380,Delhi,Delhi,2020-04-24,184,184,0,0,99
+1381,Delhi,Delhi,2020-04-24,38,38,0,0,99
+1382,Delhi,Delhi,2020-04-24,37,37,0,0,99
+1383,Delhi,Delhi,2020-04-24,60,60,0,0,99
+1384,Delhi,Delhi,2020-04-24,25,25,0,0,99
+1385,Delhi,Delhi,2020-04-24,32,32,0,0,99
+1386,Delhi,Delhi,2020-04-24,48,48,0,0,99
+1387,Delhi,Delhi,2020-04-24,70,70,0,0,99
+1388,Delhi,Delhi,2020-04-24,130,130,0,0,99
+1389,Delhi,Delhi,2020-04-24,42,42,0,0,99
+1390,Delhi,Delhi,2020-04-24,1726,816,857,53,99
+1391,Delhi,Delhi,2020-04-24,122,122,0,0,99
 1392,Goa,North Goa,2020-04-24,6,0,6,0,99
 1393,Goa,South Goa,2020-04-24,1,0,1,0,99
 1394,Gujarat,Ahmadabad,2020-04-24,1821,1625,113,83,99
@@ -1835,18 +1835,18 @@
 1833,Chhattisgarh,Raipur,2020-04-25,5,0,5,0,100
 1834,Chhattisgarh,Rajnandgaon,2020-04-25,1,0,1,0,100
 1835,Chhattisgarh,Unknown,2020-04-25,1,-6,7,0,100
-1836,Delhi,Central Delhi,2020-04-25,184,184,0,0,100
-1837,Delhi,East Delhi,2020-04-25,38,38,0,0,100
-1838,Delhi,New Delhi,2020-04-25,37,37,0,0,100
-1839,Delhi,North Delhi,2020-04-25,60,60,0,0,100
-1840,Delhi,North East Delhi,2020-04-25,25,25,0,0,100
-1841,Delhi,North West Delhi,2020-04-25,32,32,0,0,100
-1842,Delhi,Shahdara,2020-04-25,48,48,0,0,100
-1843,Delhi,South Delhi,2020-04-25,70,70,0,0,100
-1844,Delhi,South East Delhi,2020-04-25,130,130,0,0,100
-1845,Delhi,South West Delhi,2020-04-25,42,42,0,0,100
-1846,Delhi,Unknown,2020-04-25,1837,914,869,54,100
-1847,Delhi,West Delhi,2020-04-25,122,122,0,0,100
+1836,Delhi,Delhi,2020-04-25,184,184,0,0,100
+1837,Delhi,Delhi,2020-04-25,38,38,0,0,100
+1838,Delhi,Delhi,2020-04-25,37,37,0,0,100
+1839,Delhi,Delhi,2020-04-25,60,60,0,0,100
+1840,Delhi,Delhi,2020-04-25,25,25,0,0,100
+1841,Delhi,Delhi,2020-04-25,32,32,0,0,100
+1842,Delhi,Delhi,2020-04-25,48,48,0,0,100
+1843,Delhi,Delhi,2020-04-25,70,70,0,0,100
+1844,Delhi,Delhi,2020-04-25,130,130,0,0,100
+1845,Delhi,Delhi,2020-04-25,42,42,0,0,100
+1846,Delhi,Delhi,2020-04-25,1837,914,869,54,100
+1847,Delhi,Delhi,2020-04-25,122,122,0,0,100
 1848,Goa,North Goa,2020-04-25,6,0,6,0,100
 1849,Goa,South Goa,2020-04-25,1,0,1,0,100
 1850,Gujarat,Ahmadabad,2020-04-25,2003,1802,115,86,100
@@ -2294,18 +2294,18 @@
 2292,Chhattisgarh,Korba,2020-04-26,28,4,24,0,101
 2293,Chhattisgarh,Raipur,2020-04-26,6,1,5,0,101
 2294,Chhattisgarh,Rajnandgaon,2020-04-26,1,0,1,0,101
-2295,Delhi,Central Delhi,2020-04-26,184,184,0,0,101
-2296,Delhi,East Delhi,2020-04-26,38,38,0,0,101
-2297,Delhi,New Delhi,2020-04-26,37,37,0,0,101
-2298,Delhi,North Delhi,2020-04-26,60,60,0,0,101
-2299,Delhi,North East Delhi,2020-04-26,25,25,0,0,101
-2300,Delhi,North West Delhi,2020-04-26,32,32,0,0,101
-2301,Delhi,Shahdara,2020-04-26,48,48,0,0,101
-2302,Delhi,South Delhi,2020-04-26,70,70,0,0,101
-2303,Delhi,South East Delhi,2020-04-26,130,130,0,0,101
-2304,Delhi,South West Delhi,2020-04-26,42,42,0,0,101
-2305,Delhi,Unknown,2020-04-26,2130,1199,877,54,101
-2306,Delhi,West Delhi,2020-04-26,122,122,0,0,101
+2295,Delhi,Delhi,2020-04-26,184,184,0,0,101
+2296,Delhi,Delhi,2020-04-26,38,38,0,0,101
+2297,Delhi,Delhi,2020-04-26,37,37,0,0,101
+2298,Delhi,Delhi,2020-04-26,60,60,0,0,101
+2299,Delhi,Delhi,2020-04-26,25,25,0,0,101
+2300,Delhi,Delhi,2020-04-26,32,32,0,0,101
+2301,Delhi,Delhi,2020-04-26,48,48,0,0,101
+2302,Delhi,Delhi,2020-04-26,70,70,0,0,101
+2303,Delhi,Delhi,2020-04-26,130,130,0,0,101
+2304,Delhi,Delhi,2020-04-26,42,42,0,0,101
+2305,Delhi,Delhi,2020-04-26,2130,1199,877,54,101
+2306,Delhi,Delhi,2020-04-26,122,122,0,0,101
 2307,Goa,North Goa,2020-04-26,6,0,6,0,101
 2308,Goa,South Goa,2020-04-26,1,0,1,0,101
 2309,Gujarat,Ahmadabad,2020-04-26,2181,1980,115,86,101
@@ -2758,18 +2758,18 @@
 2756,Chhattisgarh,Korba,2020-04-27,28,4,24,0,102
 2757,Chhattisgarh,Raipur,2020-04-27,6,1,5,0,102
 2758,Chhattisgarh,Rajnandgaon,2020-04-27,1,0,1,0,102
-2759,Delhi,Central Delhi,2020-04-27,184,184,0,0,102
-2760,Delhi,East Delhi,2020-04-27,38,38,0,0,102
-2761,Delhi,New Delhi,2020-04-27,37,37,0,0,102
-2762,Delhi,North Delhi,2020-04-27,60,60,0,0,102
-2763,Delhi,North East Delhi,2020-04-27,25,25,0,0,102
-2764,Delhi,North West Delhi,2020-04-27,32,32,0,0,102
-2765,Delhi,Shahdara,2020-04-27,48,48,0,0,102
-2766,Delhi,South Delhi,2020-04-27,70,70,0,0,102
-2767,Delhi,South East Delhi,2020-04-27,130,130,0,0,102
-2768,Delhi,South West Delhi,2020-04-27,42,42,0,0,102
-2769,Delhi,Unknown,2020-04-27,2320,1389,877,54,102
-2770,Delhi,West Delhi,2020-04-27,122,122,0,0,102
+2759,Delhi,Delhi,2020-04-27,184,184,0,0,102
+2760,Delhi,Delhi,2020-04-27,38,38,0,0,102
+2761,Delhi,Delhi,2020-04-27,37,37,0,0,102
+2762,Delhi,Delhi,2020-04-27,60,60,0,0,102
+2763,Delhi,Delhi,2020-04-27,25,25,0,0,102
+2764,Delhi,Delhi,2020-04-27,32,32,0,0,102
+2765,Delhi,Delhi,2020-04-27,48,48,0,0,102
+2766,Delhi,Delhi,2020-04-27,70,70,0,0,102
+2767,Delhi,Delhi,2020-04-27,130,130,0,0,102
+2768,Delhi,Delhi,2020-04-27,42,42,0,0,102
+2769,Delhi,Delhi,2020-04-27,2320,1389,877,54,102
+2770,Delhi,Delhi,2020-04-27,122,122,0,0,102
 2771,Goa,North Goa,2020-04-27,6,0,6,0,102
 2772,Goa,South Goa,2020-04-27,1,0,1,0,102
 2773,Gujarat,Ahmadabad,2020-04-27,2378,2057,212,109,102
@@ -3236,18 +3236,18 @@
 3234,Chhattisgarh,Raipur,2020-04-28,6,1,5,0,103
 3235,Chhattisgarh,Rajnandgaon,2020-04-28,1,0,1,0,103
 3236,Chhattisgarh,Unknown,2020-04-28,1,0,0,0,103
-3237,Delhi,Central Delhi,2020-04-28,184,184,0,0,103
-3238,Delhi,East Delhi,2020-04-28,38,38,0,0,103
-3239,Delhi,New Delhi,2020-04-28,37,37,0,0,103
-3240,Delhi,North Delhi,2020-04-28,60,60,0,0,103
-3241,Delhi,North East Delhi,2020-04-28,25,25,0,0,103
-3242,Delhi,North West Delhi,2020-04-28,32,32,0,0,103
-3243,Delhi,Shahdara,2020-04-28,48,48,0,0,103
-3244,Delhi,South Delhi,2020-04-28,70,70,0,0,103
-3245,Delhi,South East Delhi,2020-04-28,130,130,0,0,103
-3246,Delhi,South West Delhi,2020-04-28,42,42,0,0,103
-3247,Delhi,Unknown,2020-04-28,2526,0,1078,54,103
-3248,Delhi,West Delhi,2020-04-28,122,122,0,0,103
+3237,Delhi,Delhi,2020-04-28,184,184,0,0,103
+3238,Delhi,Delhi,2020-04-28,38,38,0,0,103
+3239,Delhi,Delhi,2020-04-28,37,37,0,0,103
+3240,Delhi,Delhi,2020-04-28,60,60,0,0,103
+3241,Delhi,Delhi,2020-04-28,25,25,0,0,103
+3242,Delhi,Delhi,2020-04-28,32,32,0,0,103
+3243,Delhi,Delhi,2020-04-28,48,48,0,0,103
+3244,Delhi,Delhi,2020-04-28,70,70,0,0,103
+3245,Delhi,Delhi,2020-04-28,130,130,0,0,103
+3246,Delhi,Delhi,2020-04-28,42,42,0,0,103
+3247,Delhi,Delhi,2020-04-28,2526,0,1078,54,103
+3248,Delhi,Delhi,2020-04-28,122,122,0,0,103
 3249,Goa,North Goa,2020-04-28,6,0,6,0,103
 3250,Goa,South Goa,2020-04-28,1,0,1,0,103
 3251,Gujarat,Ahmadabad,2020-04-28,2542,2173,241,128,103
@@ -3727,18 +3727,18 @@
 3725,Chhattisgarh,Raipur,2020-04-29,6,1,5,0,104
 3726,Chhattisgarh,Rajnandgaon,2020-04-29,1,0,1,0,104
 3727,Chhattisgarh,Unknown,2020-04-29,1,0,0,0,104
-3728,Delhi,Central Delhi,2020-04-29,184,184,0,0,104
-3729,Delhi,East Delhi,2020-04-29,38,38,0,0,104
-3730,Delhi,New Delhi,2020-04-29,37,37,0,0,104
-3731,Delhi,North Delhi,2020-04-29,60,60,0,0,104
-3732,Delhi,North East Delhi,2020-04-29,25,25,0,0,104
-3733,Delhi,North West Delhi,2020-04-29,32,32,0,0,104
-3734,Delhi,Shahdara,2020-04-29,48,48,0,0,104
-3735,Delhi,South Delhi,2020-04-29,70,70,0,0,104
-3736,Delhi,South East Delhi,2020-04-29,130,130,0,0,104
-3737,Delhi,South West Delhi,2020-04-29,42,42,0,0,104
-3738,Delhi,Unknown,2020-04-29,2651,0,1092,56,104
-3739,Delhi,West Delhi,2020-04-29,122,122,0,0,104
+3728,Delhi,Delhi,2020-04-29,184,184,0,0,104
+3729,Delhi,Delhi,2020-04-29,38,38,0,0,104
+3730,Delhi,Delhi,2020-04-29,37,37,0,0,104
+3731,Delhi,Delhi,2020-04-29,60,60,0,0,104
+3732,Delhi,Delhi,2020-04-29,25,25,0,0,104
+3733,Delhi,Delhi,2020-04-29,32,32,0,0,104
+3734,Delhi,Delhi,2020-04-29,48,48,0,0,104
+3735,Delhi,Delhi,2020-04-29,70,70,0,0,104
+3736,Delhi,Delhi,2020-04-29,130,130,0,0,104
+3737,Delhi,Delhi,2020-04-29,42,42,0,0,104
+3738,Delhi,Delhi,2020-04-29,2651,0,1092,56,104
+3739,Delhi,Delhi,2020-04-29,122,122,0,0,104
 3740,Goa,North Goa,2020-04-29,6,0,6,0,104
 3741,Goa,South Goa,2020-04-29,1,0,1,0,104
 3742,Gujarat,Ahmadabad,2020-04-29,2777,2377,263,137,104
@@ -4221,18 +4221,18 @@
 4219,Chhattisgarh,Raipur,2020-04-30,6,1,5,0,105
 4220,Chhattisgarh,Rajnandgaon,2020-04-30,1,0,1,0,105
 4221,Chhattisgarh,Surajpur,2020-04-30,3,3,0,0,105
-4222,Delhi,Central Delhi,2020-04-30,184,184,0,0,105
-4223,Delhi,East Delhi,2020-04-30,38,38,0,0,105
-4224,Delhi,New Delhi,2020-04-30,37,37,0,0,105
-4225,Delhi,North Delhi,2020-04-30,60,60,0,0,105
-4226,Delhi,North East Delhi,2020-04-30,25,25,0,0,105
-4227,Delhi,North West Delhi,2020-04-30,32,32,0,0,105
-4228,Delhi,Shahdara,2020-04-30,48,48,0,0,105
-4229,Delhi,South Delhi,2020-04-30,70,70,0,0,105
-4230,Delhi,South East Delhi,2020-04-30,130,130,0,0,105
-4231,Delhi,South West Delhi,2020-04-30,42,42,0,0,105
-4232,Delhi,Unknown,2020-04-30,2727,0,1094,59,105
-4233,Delhi,West Delhi,2020-04-30,122,122,0,0,105
+4222,Delhi,Delhi,2020-04-30,184,184,0,0,105
+4223,Delhi,Delhi,2020-04-30,38,38,0,0,105
+4224,Delhi,Delhi,2020-04-30,37,37,0,0,105
+4225,Delhi,Delhi,2020-04-30,60,60,0,0,105
+4226,Delhi,Delhi,2020-04-30,25,25,0,0,105
+4227,Delhi,Delhi,2020-04-30,32,32,0,0,105
+4228,Delhi,Delhi,2020-04-30,48,48,0,0,105
+4229,Delhi,Delhi,2020-04-30,70,70,0,0,105
+4230,Delhi,Delhi,2020-04-30,130,130,0,0,105
+4231,Delhi,Delhi,2020-04-30,42,42,0,0,105
+4232,Delhi,Delhi,2020-04-30,2727,0,1094,59,105
+4233,Delhi,Delhi,2020-04-30,122,122,0,0,105
 4234,Goa,North Goa,2020-04-30,6,0,6,0,105
 4235,Goa,South Goa,2020-04-30,1,0,1,0,105
 4236,Gujarat,Ahmadabad,2020-04-30,3026,2561,316,149,105
@@ -4717,18 +4717,18 @@
 4715,Chhattisgarh,Rajnandgaon,2020-05-01,1,0,1,0,106
 4716,Chhattisgarh,Surajpur,2020-05-01,3,3,0,0,106
 4717,Chhattisgarh,Unknown,2020-05-01,3,0,0,0,106
-4718,Delhi,Central Delhi,2020-05-01,184,184,0,0,106
-4719,Delhi,East Delhi,2020-05-01,38,38,0,0,106
-4720,Delhi,New Delhi,2020-05-01,37,37,0,0,106
-4721,Delhi,North Delhi,2020-05-01,60,60,0,0,106
-4722,Delhi,North East Delhi,2020-05-01,25,25,0,0,106
-4723,Delhi,North West Delhi,2020-05-01,32,32,0,0,106
-4724,Delhi,Shahdara,2020-05-01,48,48,0,0,106
-4725,Delhi,South Delhi,2020-05-01,70,70,0,0,106
-4726,Delhi,South East Delhi,2020-05-01,130,130,0,0,106
-4727,Delhi,South West Delhi,2020-05-01,42,42,0,0,106
-4728,Delhi,Unknown,2020-05-01,2950,0,1167,61,106
-4729,Delhi,West Delhi,2020-05-01,122,122,0,0,106
+4718,Delhi,Delhi,2020-05-01,184,184,0,0,106
+4719,Delhi,Delhi,2020-05-01,38,38,0,0,106
+4720,Delhi,Delhi,2020-05-01,37,37,0,0,106
+4721,Delhi,Delhi,2020-05-01,60,60,0,0,106
+4722,Delhi,Delhi,2020-05-01,25,25,0,0,106
+4723,Delhi,Delhi,2020-05-01,32,32,0,0,106
+4724,Delhi,Delhi,2020-05-01,48,48,0,0,106
+4725,Delhi,Delhi,2020-05-01,70,70,0,0,106
+4726,Delhi,Delhi,2020-05-01,130,130,0,0,106
+4727,Delhi,Delhi,2020-05-01,42,42,0,0,106
+4728,Delhi,Delhi,2020-05-01,2950,0,1167,61,106
+4729,Delhi,Delhi,2020-05-01,122,122,0,0,106
 4730,Goa,North Goa,2020-05-01,6,0,6,0,106
 4731,Goa,South Goa,2020-05-01,1,0,1,0,106
 4732,Gujarat,Ahmadabad,2020-05-01,3293,2729,399,165,106
@@ -5220,18 +5220,18 @@
 5218,Chhattisgarh,Raipur,2020-05-02,6,1,5,0,107
 5219,Chhattisgarh,Rajnandgaon,2020-05-02,1,0,1,0,107
 5220,Chhattisgarh,Surajpur,2020-05-02,6,6,0,0,107
-5221,Delhi,Central Delhi,2020-05-02,184,184,0,0,107
-5222,Delhi,East Delhi,2020-05-02,38,38,0,0,107
-5223,Delhi,New Delhi,2020-05-02,37,37,0,0,107
-5224,Delhi,North Delhi,2020-05-02,60,60,0,0,107
-5225,Delhi,North East Delhi,2020-05-02,25,25,0,0,107
-5226,Delhi,North West Delhi,2020-05-02,32,32,0,0,107
-5227,Delhi,Shahdara,2020-05-02,48,48,0,0,107
-5228,Delhi,South Delhi,2020-05-02,70,70,0,0,107
-5229,Delhi,South East Delhi,2020-05-02,130,130,0,0,107
-5230,Delhi,South West Delhi,2020-05-02,42,42,0,0,107
-5231,Delhi,Unknown,2020-05-02,3334,0,1256,64,107
-5232,Delhi,West Delhi,2020-05-02,122,122,0,0,107
+5221,Delhi,Delhi,2020-05-02,184,184,0,0,107
+5222,Delhi,Delhi,2020-05-02,38,38,0,0,107
+5223,Delhi,Delhi,2020-05-02,37,37,0,0,107
+5224,Delhi,Delhi,2020-05-02,60,60,0,0,107
+5225,Delhi,Delhi,2020-05-02,25,25,0,0,107
+5226,Delhi,Delhi,2020-05-02,32,32,0,0,107
+5227,Delhi,Delhi,2020-05-02,48,48,0,0,107
+5228,Delhi,Delhi,2020-05-02,70,70,0,0,107
+5229,Delhi,Delhi,2020-05-02,130,130,0,0,107
+5230,Delhi,Delhi,2020-05-02,42,42,0,0,107
+5231,Delhi,Delhi,2020-05-02,3334,0,1256,64,107
+5232,Delhi,Delhi,2020-05-02,122,122,0,0,107
 5233,Goa,North Goa,2020-05-02,6,0,6,0,107
 5234,Goa,South Goa,2020-05-02,1,0,1,0,107
 5235,Gujarat,Ahmedabad,2020-05-02,3543,2896,462,185,107
@@ -5726,18 +5726,18 @@
 5724,Chhattisgarh,Raipur,2020-05-03,6,1,5,0,108
 5725,Chhattisgarh,Rajnandgaon,2020-05-03,1,0,1,0,108
 5726,Chhattisgarh,Surajpur,2020-05-03,6,6,0,0,108
-5727,Delhi,Central Delhi,2020-05-03,184,184,0,0,108
-5728,Delhi,East Delhi,2020-05-03,38,38,0,0,108
-5729,Delhi,New Delhi,2020-05-03,37,37,0,0,108
-5730,Delhi,North Delhi,2020-05-03,60,60,0,0,108
-5731,Delhi,North East Delhi,2020-05-03,25,25,0,0,108
-5732,Delhi,North West Delhi,2020-05-03,32,32,0,0,108
-5733,Delhi,Shahdara,2020-05-03,48,48,0,0,108
-5734,Delhi,South Delhi,2020-05-03,70,70,0,0,108
-5735,Delhi,South East Delhi,2020-05-03,130,130,0,0,108
-5736,Delhi,South West Delhi,2020-05-03,42,42,0,0,108
-5737,Delhi,Unknown,2020-05-03,3761,0,1362,64,108
-5738,Delhi,West Delhi,2020-05-03,122,122,0,0,108
+5727,Delhi,Delhi,2020-05-03,184,184,0,0,108
+5728,Delhi,Delhi,2020-05-03,38,38,0,0,108
+5729,Delhi,Delhi,2020-05-03,37,37,0,0,108
+5730,Delhi,Delhi,2020-05-03,60,60,0,0,108
+5731,Delhi,Delhi,2020-05-03,25,25,0,0,108
+5732,Delhi,Delhi,2020-05-03,32,32,0,0,108
+5733,Delhi,Delhi,2020-05-03,48,48,0,0,108
+5734,Delhi,Delhi,2020-05-03,70,70,0,0,108
+5735,Delhi,Delhi,2020-05-03,130,130,0,0,108
+5736,Delhi,Delhi,2020-05-03,42,42,0,0,108
+5737,Delhi,Delhi,2020-05-03,3761,0,1362,64,108
+5738,Delhi,Delhi,2020-05-03,122,122,0,0,108
 5739,Goa,North Goa,2020-05-03,6,0,6,0,108
 5740,Goa,South Goa,2020-05-03,1,0,1,0,108
 5741,Gujarat,Ahmedabad,2020-05-03,3817,3076,533,208,108
@@ -6235,18 +6235,18 @@
 6233,Chhattisgarh,Raipur,2020-05-04,7,2,5,0,109
 6234,Chhattisgarh,Rajnandgaon,2020-05-04,1,0,1,0,109
 6235,Chhattisgarh,Surajpur,2020-05-04,6,6,0,0,109
-6236,Delhi,Central Delhi,2020-05-04,184,184,0,0,109
-6237,Delhi,East Delhi,2020-05-04,38,38,0,0,109
-6238,Delhi,New Delhi,2020-05-04,37,37,0,0,109
-6239,Delhi,North Delhi,2020-05-04,60,60,0,0,109
-6240,Delhi,North East Delhi,2020-05-04,25,25,0,0,109
-6241,Delhi,North West Delhi,2020-05-04,32,32,0,0,109
-6242,Delhi,Shahdara,2020-05-04,48,48,0,0,109
-6243,Delhi,South Delhi,2020-05-04,70,70,0,0,109
-6244,Delhi,South East Delhi,2020-05-04,130,130,0,0,109
-6245,Delhi,South West Delhi,2020-05-04,42,42,0,0,109
-6246,Delhi,Unknown,2020-05-04,4110,0,1431,64,109
-6247,Delhi,West Delhi,2020-05-04,122,122,0,0,109
+6236,Delhi,Delhi,2020-05-04,184,184,0,0,109
+6237,Delhi,Delhi,2020-05-04,38,38,0,0,109
+6238,Delhi,Delhi,2020-05-04,37,37,0,0,109
+6239,Delhi,Delhi,2020-05-04,60,60,0,0,109
+6240,Delhi,Delhi,2020-05-04,25,25,0,0,109
+6241,Delhi,Delhi,2020-05-04,32,32,0,0,109
+6242,Delhi,Delhi,2020-05-04,48,48,0,0,109
+6243,Delhi,Delhi,2020-05-04,70,70,0,0,109
+6244,Delhi,Delhi,2020-05-04,130,130,0,0,109
+6245,Delhi,Delhi,2020-05-04,42,42,0,0,109
+6246,Delhi,Delhi,2020-05-04,4110,0,1431,64,109
+6247,Delhi,Delhi,2020-05-04,122,122,0,0,109
 6248,Goa,North Goa,2020-05-04,6,0,6,0,109
 6249,Goa,South Goa,2020-05-04,1,0,1,0,109
 6250,Gujarat,Ahmedabad,2020-05-04,4076,3222,620,234,109
@@ -6755,18 +6755,18 @@
 6753,Chhattisgarh,Rajnandgaon,2020-05-05,1,0,1,0,110
 6754,Chhattisgarh,Surajpur,2020-05-05,6,6,0,0,110
 6755,Dadra and Nagar Haveli,Dadra and Nagar Haveli,2020-05-05,1,1,0,0,110
-6756,Delhi,Central Delhi,2020-05-05,184,184,0,0,110
-6757,Delhi,East Delhi,2020-05-05,38,38,0,0,110
-6758,Delhi,New Delhi,2020-05-05,37,37,0,0,110
-6759,Delhi,North Delhi,2020-05-05,60,60,0,0,110
-6760,Delhi,North East Delhi,2020-05-05,25,25,0,0,110
-6761,Delhi,North West Delhi,2020-05-05,32,32,0,0,110
-6762,Delhi,Shahdara,2020-05-05,48,48,0,0,110
-6763,Delhi,South Delhi,2020-05-05,70,70,0,0,110
-6764,Delhi,South East Delhi,2020-05-05,130,130,0,0,110
-6765,Delhi,South West Delhi,2020-05-05,42,42,0,0,110
-6766,Delhi,Unknown,2020-05-05,4316,0,1468,64,110
-6767,Delhi,West Delhi,2020-05-05,122,122,0,0,110
+6756,Delhi,Delhi,2020-05-05,184,184,0,0,110
+6757,Delhi,Delhi,2020-05-05,38,38,0,0,110
+6758,Delhi,Delhi,2020-05-05,37,37,0,0,110
+6759,Delhi,Delhi,2020-05-05,60,60,0,0,110
+6760,Delhi,Delhi,2020-05-05,25,25,0,0,110
+6761,Delhi,Delhi,2020-05-05,32,32,0,0,110
+6762,Delhi,Delhi,2020-05-05,48,48,0,0,110
+6763,Delhi,Delhi,2020-05-05,70,70,0,0,110
+6764,Delhi,Delhi,2020-05-05,130,130,0,0,110
+6765,Delhi,Delhi,2020-05-05,42,42,0,0,110
+6766,Delhi,Delhi,2020-05-05,4316,0,1468,64,110
+6767,Delhi,Delhi,2020-05-05,122,122,0,0,110
 6768,Goa,North Goa,2020-05-05,6,0,6,0,110
 6769,Goa,South Goa,2020-05-05,1,0,1,0,110
 6770,Gujarat,Ahmedabad,2020-05-05,4425,3448,704,273,110
@@ -7279,18 +7279,18 @@
 7277,Chhattisgarh,Rajnandgaon,2020-05-06,1,0,1,0,111
 7278,Chhattisgarh,Surajpur,2020-05-06,6,6,0,0,111
 7279,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,2020-05-06,1,1,0,0,111
-7280,Delhi,Central Delhi,2020-05-06,184,184,0,0,111
-7281,Delhi,East Delhi,2020-05-06,38,38,0,0,111
-7282,Delhi,New Delhi,2020-05-06,37,37,0,0,111
-7283,Delhi,North Delhi,2020-05-06,60,60,0,0,111
-7284,Delhi,North East Delhi,2020-05-06,25,25,0,0,111
-7285,Delhi,North West Delhi,2020-05-06,32,31,0,1,111
-7286,Delhi,Shahdara,2020-05-06,48,48,0,0,111
-7287,Delhi,South Delhi,2020-05-06,70,70,0,0,111
-7288,Delhi,South East Delhi,2020-05-06,130,130,0,0,111
-7289,Delhi,South West Delhi,2020-05-06,42,42,0,0,111
-7290,Delhi,Unknown,2020-05-06,4744,0,1542,65,111
-7291,Delhi,West Delhi,2020-05-06,122,122,0,0,111
+7280,Delhi,Delhi,2020-05-06,184,184,0,0,111
+7281,Delhi,Delhi,2020-05-06,38,38,0,0,111
+7282,Delhi,Delhi,2020-05-06,37,37,0,0,111
+7283,Delhi,Delhi,2020-05-06,60,60,0,0,111
+7284,Delhi,Delhi,2020-05-06,25,25,0,0,111
+7285,Delhi,Delhi,2020-05-06,32,31,0,1,111
+7286,Delhi,Delhi,2020-05-06,48,48,0,0,111
+7287,Delhi,Delhi,2020-05-06,70,70,0,0,111
+7288,Delhi,Delhi,2020-05-06,130,130,0,0,111
+7289,Delhi,Delhi,2020-05-06,42,42,0,0,111
+7290,Delhi,Delhi,2020-05-06,4744,0,1542,65,111
+7291,Delhi,Delhi,2020-05-06,122,122,0,0,111
 7292,Goa,North Goa,2020-05-06,6,0,6,0,111
 7293,Goa,South Goa,2020-05-06,1,0,1,0,111
 7294,Gujarat,Ahmedabad,2020-05-06,4716,3640,778,298,111
@@ -7809,18 +7809,18 @@
 7807,Chhattisgarh,Rajnandgaon,2020-05-07,1,0,1,0,112
 7808,Chhattisgarh,Surajpur,2020-05-07,6,6,0,0,112
 7809,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,2020-05-07,1,1,0,0,112
-7810,Delhi,Central Delhi,2020-05-07,184,184,0,0,112
-7811,Delhi,East Delhi,2020-05-07,38,38,0,0,112
-7812,Delhi,New Delhi,2020-05-07,37,37,0,0,112
-7813,Delhi,North Delhi,2020-05-07,60,60,0,0,112
-7814,Delhi,North East Delhi,2020-05-07,25,25,0,0,112
-7815,Delhi,North West Delhi,2020-05-07,32,31,0,1,112
-7816,Delhi,Shahdara,2020-05-07,48,48,0,0,112
-7817,Delhi,South Delhi,2020-05-07,70,70,0,0,112
-7818,Delhi,South East Delhi,2020-05-07,130,130,0,0,112
-7819,Delhi,South West Delhi,2020-05-07,42,42,0,0,112
-7820,Delhi,Unknown,2020-05-07,5192,0,1931,65,112
-7821,Delhi,West Delhi,2020-05-07,122,122,0,0,112
+7810,Delhi,Delhi,2020-05-07,184,184,0,0,112
+7811,Delhi,Delhi,2020-05-07,38,38,0,0,112
+7812,Delhi,Delhi,2020-05-07,37,37,0,0,112
+7813,Delhi,Delhi,2020-05-07,60,60,0,0,112
+7814,Delhi,Delhi,2020-05-07,25,25,0,0,112
+7815,Delhi,Delhi,2020-05-07,32,31,0,1,112
+7816,Delhi,Delhi,2020-05-07,48,48,0,0,112
+7817,Delhi,Delhi,2020-05-07,70,70,0,0,112
+7818,Delhi,Delhi,2020-05-07,130,130,0,0,112
+7819,Delhi,Delhi,2020-05-07,42,42,0,0,112
+7820,Delhi,Delhi,2020-05-07,5192,0,1931,65,112
+7821,Delhi,Delhi,2020-05-07,122,122,0,0,112
 7822,Goa,North Goa,2020-05-07,6,0,6,0,112
 7823,Goa,South Goa,2020-05-07,1,0,1,0,112
 7824,Gujarat,Ahmedabad,2020-05-07,4991,3784,886,321,112
@@ -8348,18 +8348,18 @@
 8346,Chhattisgarh,Rajnandgaon,2020-05-08,1,0,1,0,113
 8347,Chhattisgarh,Surajpur,2020-05-08,6,6,0,0,113
 8348,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,2020-05-08,1,1,0,0,113
-8349,Delhi,Central Delhi,2020-05-08,184,184,0,0,113
-8350,Delhi,East Delhi,2020-05-08,38,38,0,0,113
-8351,Delhi,New Delhi,2020-05-08,37,37,0,0,113
-8352,Delhi,North Delhi,2020-05-08,60,60,0,0,113
-8353,Delhi,North East Delhi,2020-05-08,25,25,0,0,113
-8354,Delhi,North West Delhi,2020-05-08,32,31,0,1,113
-8355,Delhi,Shahdara,2020-05-08,48,48,0,0,113
-8356,Delhi,South Delhi,2020-05-08,70,70,0,0,113
-8357,Delhi,South East Delhi,2020-05-08,130,130,0,0,113
-8358,Delhi,South West Delhi,2020-05-08,42,42,0,0,113
-8359,Delhi,Unknown,2020-05-08,5530,3443,2020,67,113
-8360,Delhi,West Delhi,2020-05-08,122,122,0,0,113
+8349,Delhi,Delhi,2020-05-08,184,184,0,0,113
+8350,Delhi,Delhi,2020-05-08,38,38,0,0,113
+8351,Delhi,Delhi,2020-05-08,37,37,0,0,113
+8352,Delhi,Delhi,2020-05-08,60,60,0,0,113
+8353,Delhi,Delhi,2020-05-08,25,25,0,0,113
+8354,Delhi,Delhi,2020-05-08,32,31,0,1,113
+8355,Delhi,Delhi,2020-05-08,48,48,0,0,113
+8356,Delhi,Delhi,2020-05-08,70,70,0,0,113
+8357,Delhi,Delhi,2020-05-08,130,130,0,0,113
+8358,Delhi,Delhi,2020-05-08,42,42,0,0,113
+8359,Delhi,Delhi,2020-05-08,5530,3443,2020,67,113
+8360,Delhi,Delhi,2020-05-08,122,122,0,0,113
 8361,Goa,North Goa,2020-05-08,6,0,6,0,113
 8362,Goa,South Goa,2020-05-08,1,0,1,0,113
 8363,Gujarat,Ahmedabad,2020-05-08,5260,3916,1001,343,113
@@ -8891,18 +8891,18 @@
 8889,Chhattisgarh,Rajnandgaon,2020-05-09,1,0,1,0,114
 8890,Chhattisgarh,Surajpur,2020-05-09,6,4,2,0,114
 8891,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,2020-05-09,1,1,0,0,114
-8892,Delhi,Central Delhi,2020-05-09,184,184,0,0,114
-8893,Delhi,East Delhi,2020-05-09,38,38,0,0,114
-8894,Delhi,New Delhi,2020-05-09,37,37,0,0,114
-8895,Delhi,North Delhi,2020-05-09,60,60,0,0,114
-8896,Delhi,North East Delhi,2020-05-09,25,25,0,0,114
-8897,Delhi,North West Delhi,2020-05-09,32,31,0,1,114
-8898,Delhi,Shahdara,2020-05-09,48,48,0,0,114
-8899,Delhi,South Delhi,2020-05-09,70,70,0,0,114
-8900,Delhi,South East Delhi,2020-05-09,130,130,0,0,114
-8901,Delhi,South West Delhi,2020-05-09,42,42,0,0,114
-8902,Delhi,Unknown,2020-05-09,5754,3667,2020,67,114
-8903,Delhi,West Delhi,2020-05-09,122,122,0,0,114
+8892,Delhi,Delhi,2020-05-09,184,184,0,0,114
+8893,Delhi,Delhi,2020-05-09,38,38,0,0,114
+8894,Delhi,Delhi,2020-05-09,37,37,0,0,114
+8895,Delhi,Delhi,2020-05-09,60,60,0,0,114
+8896,Delhi,Delhi,2020-05-09,25,25,0,0,114
+8897,Delhi,Delhi,2020-05-09,32,31,0,1,114
+8898,Delhi,Delhi,2020-05-09,48,48,0,0,114
+8899,Delhi,Delhi,2020-05-09,70,70,0,0,114
+8900,Delhi,Delhi,2020-05-09,130,130,0,0,114
+8901,Delhi,Delhi,2020-05-09,42,42,0,0,114
+8902,Delhi,Delhi,2020-05-09,5754,3667,2020,67,114
+8903,Delhi,Delhi,2020-05-09,122,122,0,0,114
 8904,Goa,North Goa,2020-05-09,6,0,6,0,114
 8905,Goa,South Goa,2020-05-09,1,0,1,0,114
 8906,Gujarat,Ahmedabad,2020-05-09,5540,4070,1107,363,114
@@ -9442,18 +9442,18 @@
 9440,Chhattisgarh,Rajnandgaon,2020-05-10,1,0,1,0,115
 9441,Chhattisgarh,Surajpur,2020-05-10,6,4,2,0,115
 9442,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,2020-05-10,1,1,0,0,115
-9443,Delhi,Central Delhi,2020-05-10,184,184,0,0,115
-9444,Delhi,East Delhi,2020-05-10,38,38,0,0,115
-9445,Delhi,New Delhi,2020-05-10,37,37,0,0,115
-9446,Delhi,North Delhi,2020-05-10,60,60,0,0,115
-9447,Delhi,North East Delhi,2020-05-10,25,25,0,0,115
-9448,Delhi,North West Delhi,2020-05-10,32,31,0,1,115
-9449,Delhi,Shahdara,2020-05-10,48,48,0,0,115
-9450,Delhi,South Delhi,2020-05-10,70,70,0,0,115
-9451,Delhi,South East Delhi,2020-05-10,130,130,0,0,115
-9452,Delhi,South West Delhi,2020-05-10,42,42,0,0,115
-9453,Delhi,Unknown,2020-05-10,6135,3994,2069,72,115
-9454,Delhi,West Delhi,2020-05-10,122,122,0,0,115
+9443,Delhi,Delhi,2020-05-10,184,184,0,0,115
+9444,Delhi,Delhi,2020-05-10,38,38,0,0,115
+9445,Delhi,Delhi,2020-05-10,37,37,0,0,115
+9446,Delhi,Delhi,2020-05-10,60,60,0,0,115
+9447,Delhi,Delhi,2020-05-10,25,25,0,0,115
+9448,Delhi,Delhi,2020-05-10,32,31,0,1,115
+9449,Delhi,Delhi,2020-05-10,48,48,0,0,115
+9450,Delhi,Delhi,2020-05-10,70,70,0,0,115
+9451,Delhi,Delhi,2020-05-10,130,130,0,0,115
+9452,Delhi,Delhi,2020-05-10,42,42,0,0,115
+9453,Delhi,Delhi,2020-05-10,6135,3994,2069,72,115
+9454,Delhi,Delhi,2020-05-10,122,122,0,0,115
 9455,Goa,North Goa,2020-05-10,6,0,6,0,115
 9456,Goa,South Goa,2020-05-10,1,0,1,0,115
 9457,Gujarat,Ahmedabad,2020-05-10,5818,4064,1373,381,115
@@ -10001,18 +10001,18 @@
 9999,Chhattisgarh,Rajnandgaon,2020-05-11,1,0,1,0,116
 10000,Chhattisgarh,Surajpur,2020-05-11,6,2,4,0,116
 10001,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,2020-05-11,1,1,0,0,116
-10002,Delhi,Central Delhi,2020-05-11,184,184,0,0,116
-10003,Delhi,East Delhi,2020-05-11,38,38,0,0,116
-10004,Delhi,New Delhi,2020-05-11,37,37,0,0,116
-10005,Delhi,North Delhi,2020-05-11,60,60,0,0,116
-10006,Delhi,North East Delhi,2020-05-11,25,25,0,0,116
-10007,Delhi,North West Delhi,2020-05-11,32,31,0,1,116
-10008,Delhi,Shahdara,2020-05-11,48,48,0,0,116
-10009,Delhi,South Delhi,2020-05-11,70,70,0,0,116
-10010,Delhi,South East Delhi,2020-05-11,130,130,0,0,116
-10011,Delhi,South West Delhi,2020-05-11,42,42,0,0,116
-10012,Delhi,Unknown,2020-05-11,6445,4244,2129,72,116
-10013,Delhi,West Delhi,2020-05-11,122,122,0,0,116
+10002,Delhi,Delhi,2020-05-11,184,184,0,0,116
+10003,Delhi,Delhi,2020-05-11,38,38,0,0,116
+10004,Delhi,Delhi,2020-05-11,37,37,0,0,116
+10005,Delhi,Delhi,2020-05-11,60,60,0,0,116
+10006,Delhi,Delhi,2020-05-11,25,25,0,0,116
+10007,Delhi,Delhi,2020-05-11,32,31,0,1,116
+10008,Delhi,Delhi,2020-05-11,48,48,0,0,116
+10009,Delhi,Delhi,2020-05-11,70,70,0,0,116
+10010,Delhi,Delhi,2020-05-11,130,130,0,0,116
+10011,Delhi,Delhi,2020-05-11,42,42,0,0,116
+10012,Delhi,Delhi,2020-05-11,6445,4244,2129,72,116
+10013,Delhi,Delhi,2020-05-11,122,122,0,0,116
 10014,Goa,North Goa,2020-05-11,6,0,6,0,116
 10015,Goa,South Goa,2020-05-11,1,0,1,0,116
 10016,Gujarat,Ahmedabad,2020-05-11,6086,4204,1482,400,116
@@ -10562,18 +10562,18 @@
 10560,Chhattisgarh,Rajnandgaon,2020-05-12,1,0,1,0,117
 10561,Chhattisgarh,Surajpur,2020-05-12,6,2,4,0,117
 10562,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,2020-05-12,1,0,1,0,117
-10563,Delhi,Central Delhi,2020-05-12,184,184,0,0,117
-10564,Delhi,East Delhi,2020-05-12,38,38,0,0,117
-10565,Delhi,New Delhi,2020-05-12,37,37,0,0,117
-10566,Delhi,North Delhi,2020-05-12,60,60,0,0,117
-10567,Delhi,North East Delhi,2020-05-12,25,25,0,0,117
-10568,Delhi,North West Delhi,2020-05-12,32,31,0,1,117
-10569,Delhi,Shahdara,2020-05-12,48,48,0,0,117
-10570,Delhi,South Delhi,2020-05-12,70,70,0,0,117
-10571,Delhi,South East Delhi,2020-05-12,130,130,0,0,117
-10572,Delhi,South West Delhi,2020-05-12,42,42,0,0,117
-10573,Delhi,Unknown,2020-05-12,6851,4254,2512,85,117
-10574,Delhi,West Delhi,2020-05-12,122,122,0,0,117
+10563,Delhi,Delhi,2020-05-12,184,184,0,0,117
+10564,Delhi,Delhi,2020-05-12,38,38,0,0,117
+10565,Delhi,Delhi,2020-05-12,37,37,0,0,117
+10566,Delhi,Delhi,2020-05-12,60,60,0,0,117
+10567,Delhi,Delhi,2020-05-12,25,25,0,0,117
+10568,Delhi,Delhi,2020-05-12,32,31,0,1,117
+10569,Delhi,Delhi,2020-05-12,48,48,0,0,117
+10570,Delhi,Delhi,2020-05-12,70,70,0,0,117
+10571,Delhi,Delhi,2020-05-12,130,130,0,0,117
+10572,Delhi,Delhi,2020-05-12,42,42,0,0,117
+10573,Delhi,Delhi,2020-05-12,6851,4254,2512,85,117
+10574,Delhi,Delhi,2020-05-12,122,122,0,0,117
 10575,Goa,North Goa,2020-05-12,6,0,6,0,117
 10576,Goa,South Goa,2020-05-12,1,0,1,0,117
 10577,Gujarat,Ahmedabad,2020-05-12,6353,4058,1874,421,117
@@ -11197,18 +11197,18 @@
 11195,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,2020-05-13,1,0,1,0,118
 11196,Dadra and Nagar Haveli and Daman and Diu,Daman,2020-05-13,0,0,0,0,118
 11197,Dadra and Nagar Haveli and Daman and Diu,Diu,2020-05-13,0,0,0,0,118
-11198,Delhi,Central Delhi,2020-05-13,184,184,0,0,118
-11199,Delhi,East Delhi,2020-05-13,38,38,0,0,118
-11200,Delhi,New Delhi,2020-05-13,37,37,0,0,118
-11201,Delhi,North Delhi,2020-05-13,60,60,0,0,118
-11202,Delhi,North East Delhi,2020-05-13,25,25,0,0,118
-11203,Delhi,North West Delhi,2020-05-13,32,31,0,1,118
-11204,Delhi,Shahdara,2020-05-13,48,48,0,0,118
-11205,Delhi,South Delhi,2020-05-13,70,70,0,0,118
-11206,Delhi,South East Delhi,2020-05-13,130,130,0,0,118
-11207,Delhi,South West Delhi,2020-05-13,42,42,0,0,118
-11208,Delhi,Unknown,2020-05-13,7210,4247,2858,105,118
-11209,Delhi,West Delhi,2020-05-13,122,122,0,0,118
+11198,Delhi,Delhi,2020-05-13,184,184,0,0,118
+11199,Delhi,Delhi,2020-05-13,38,38,0,0,118
+11200,Delhi,Delhi,2020-05-13,37,37,0,0,118
+11201,Delhi,Delhi,2020-05-13,60,60,0,0,118
+11202,Delhi,Delhi,2020-05-13,25,25,0,0,118
+11203,Delhi,Delhi,2020-05-13,32,31,0,1,118
+11204,Delhi,Delhi,2020-05-13,48,48,0,0,118
+11205,Delhi,Delhi,2020-05-13,70,70,0,0,118
+11206,Delhi,Delhi,2020-05-13,130,130,0,0,118
+11207,Delhi,Delhi,2020-05-13,42,42,0,0,118
+11208,Delhi,Delhi,2020-05-13,7210,4247,2858,105,118
+11209,Delhi,Delhi,2020-05-13,122,122,0,0,118
 11210,Goa,North Goa,2020-05-13,6,0,6,0,118
 11211,Goa,South Goa,2020-05-13,1,0,1,0,118
 11212,Gujarat,Ahmedabad,2020-05-13,6645,4087,2112,446,118
@@ -11953,18 +11953,18 @@
 11951,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,2020-05-14,1,0,1,0,119
 11952,Dadra and Nagar Haveli and Daman and Diu,Daman,2020-05-14,0,0,0,0,119
 11953,Dadra and Nagar Haveli and Daman and Diu,Diu,2020-05-14,0,0,0,0,119
-11954,Delhi,Central Delhi,2020-05-14,184,184,0,0,119
-11955,Delhi,East Delhi,2020-05-14,38,38,0,0,119
-11956,Delhi,New Delhi,2020-05-14,37,37,0,0,119
-11957,Delhi,North Delhi,2020-05-14,60,60,0,0,119
-11958,Delhi,North East Delhi,2020-05-14,25,25,0,0,119
-11959,Delhi,North West Delhi,2020-05-14,32,31,0,1,119
-11960,Delhi,Shahdara,2020-05-14,48,48,0,0,119
-11961,Delhi,South Delhi,2020-05-14,70,70,0,0,119
-11962,Delhi,South East Delhi,2020-05-14,130,130,0,0,119
-11963,Delhi,South West Delhi,2020-05-14,42,42,0,0,119
-11964,Delhi,Unknown,2020-05-14,7682,4523,3045,114,119
-11965,Delhi,West Delhi,2020-05-14,122,122,0,0,119
+11954,Delhi,Delhi,2020-05-14,184,184,0,0,119
+11955,Delhi,Delhi,2020-05-14,38,38,0,0,119
+11956,Delhi,Delhi,2020-05-14,37,37,0,0,119
+11957,Delhi,Delhi,2020-05-14,60,60,0,0,119
+11958,Delhi,Delhi,2020-05-14,25,25,0,0,119
+11959,Delhi,Delhi,2020-05-14,32,31,0,1,119
+11960,Delhi,Delhi,2020-05-14,48,48,0,0,119
+11961,Delhi,Delhi,2020-05-14,70,70,0,0,119
+11962,Delhi,Delhi,2020-05-14,130,130,0,0,119
+11963,Delhi,Delhi,2020-05-14,42,42,0,0,119
+11964,Delhi,Delhi,2020-05-14,7682,4523,3045,114,119
+11965,Delhi,Delhi,2020-05-14,122,122,0,0,119
 11966,Goa,North Goa,2020-05-14,6,0,6,0,119
 11967,Goa,South Goa,2020-05-14,9,8,1,0,119
 11968,Gujarat,Ahmedabad,2020-05-14,6910,4198,2247,465,119
@@ -12710,18 +12710,18 @@
 12708,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,2020-05-15,1,0,1,0,120
 12709,Dadra and Nagar Haveli and Daman and Diu,Daman,2020-05-15,0,0,0,0,120
 12710,Dadra and Nagar Haveli and Daman and Diu,Diu,2020-05-15,0,0,0,0,120
-12711,Delhi,Central Delhi,2020-05-15,184,184,0,0,120
-12712,Delhi,East Delhi,2020-05-15,38,38,0,0,120
-12713,Delhi,New Delhi,2020-05-15,37,37,0,0,120
-12714,Delhi,North Delhi,2020-05-15,60,60,0,0,120
-12715,Delhi,North East Delhi,2020-05-15,25,25,0,0,120
-12716,Delhi,North West Delhi,2020-05-15,32,31,0,1,120
-12717,Delhi,Shahdara,2020-05-15,48,48,0,0,120
-12718,Delhi,South Delhi,2020-05-15,70,70,0,0,120
-12719,Delhi,South East Delhi,2020-05-15,130,130,0,0,120
-12720,Delhi,South West Delhi,2020-05-15,42,42,0,0,120
-12721,Delhi,Unknown,2020-05-15,8107,4467,3518,122,120
-12722,Delhi,West Delhi,2020-05-15,122,122,0,0,120
+12711,Delhi,Delhi,2020-05-15,184,184,0,0,120
+12712,Delhi,Delhi,2020-05-15,38,38,0,0,120
+12713,Delhi,Delhi,2020-05-15,37,37,0,0,120
+12714,Delhi,Delhi,2020-05-15,60,60,0,0,120
+12715,Delhi,Delhi,2020-05-15,25,25,0,0,120
+12716,Delhi,Delhi,2020-05-15,32,31,0,1,120
+12717,Delhi,Delhi,2020-05-15,48,48,0,0,120
+12718,Delhi,Delhi,2020-05-15,70,70,0,0,120
+12719,Delhi,Delhi,2020-05-15,130,130,0,0,120
+12720,Delhi,Delhi,2020-05-15,42,42,0,0,120
+12721,Delhi,Delhi,2020-05-15,8107,4467,3518,122,120
+12722,Delhi,Delhi,2020-05-15,122,122,0,0,120
 12723,Goa,North Goa,2020-05-15,6,0,6,0,120
 12724,Goa,South Goa,2020-05-15,9,8,1,0,120
 12725,Gujarat,Ahmedabad,2020-05-15,7171,4310,2382,479,120
@@ -13465,18 +13465,18 @@
 13463,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,2020-05-16,1,0,1,0,121
 13464,Dadra and Nagar Haveli and Daman and Diu,Daman,2020-05-16,0,0,0,0,121
 13465,Dadra and Nagar Haveli and Daman and Diu,Diu,2020-05-16,0,0,0,0,121
-13466,Delhi,Central Delhi,2020-05-16,184,184,0,0,121
-13467,Delhi,East Delhi,2020-05-16,38,38,0,0,121
-13468,Delhi,New Delhi,2020-05-16,37,37,0,0,121
-13469,Delhi,North Delhi,2020-05-16,60,60,0,0,121
-13470,Delhi,North East Delhi,2020-05-16,25,25,0,0,121
-13471,Delhi,North West Delhi,2020-05-16,32,31,0,1,121
-13472,Delhi,Shahdara,2020-05-16,48,48,0,0,121
-13473,Delhi,South Delhi,2020-05-16,70,70,0,0,121
-13474,Delhi,South East Delhi,2020-05-16,130,130,0,0,121
-13475,Delhi,South West Delhi,2020-05-16,42,42,0,0,121
-13476,Delhi,Unknown,2020-05-16,8545,4491,3926,128,121
-13477,Delhi,West Delhi,2020-05-16,122,122,0,0,121
+13466,Delhi,Delhi,2020-05-16,184,184,0,0,121
+13467,Delhi,Delhi,2020-05-16,38,38,0,0,121
+13468,Delhi,Delhi,2020-05-16,37,37,0,0,121
+13469,Delhi,Delhi,2020-05-16,60,60,0,0,121
+13470,Delhi,Delhi,2020-05-16,25,25,0,0,121
+13471,Delhi,Delhi,2020-05-16,32,31,0,1,121
+13472,Delhi,Delhi,2020-05-16,48,48,0,0,121
+13473,Delhi,Delhi,2020-05-16,70,70,0,0,121
+13474,Delhi,Delhi,2020-05-16,130,130,0,0,121
+13475,Delhi,Delhi,2020-05-16,42,42,0,0,121
+13476,Delhi,Delhi,2020-05-16,8545,4491,3926,128,121
+13477,Delhi,Delhi,2020-05-16,122,122,0,0,121
 13478,Goa,North Goa,2020-05-16,6,0,6,0,121
 13479,Goa,South Goa,2020-05-16,9,8,1,0,121
 13480,Gujarat,Ahmedabad,2020-05-16,7171,4310,2382,479,121

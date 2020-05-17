@@ -14,6 +14,8 @@ def refine_patient_city_district(df):
 
 def refine_districts_daily(df):
     df = df.sort_values(['date', 'State', 'district'])
+    delhi = df['State'].eq('Delhi')
+    df.loc[delhi, 'district'] = 'Delhi'
     return df
 
 def refine_statewise_testing(df):

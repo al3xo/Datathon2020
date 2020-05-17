@@ -9,7 +9,7 @@ import sqlite3
 def merge_dfs(patient, district, statewise_testing, zones, hospital_beds, icmr, district_census, state_census):
     merged = patient.merge(district, left_on=['Date_Announced', 'Detected_District', 'Detected_State', 'DaysFromFirstDate'], right_on=['date', 'district', 'State', 'DaysFromFirstDate'])
     merged = merged.drop(['Detected_City', 'Date_Announced', 'Detected_District', 'Detected_State'], axis=1)
-    nas = merged['Age_Bracket'].ne('Unknown') & merged['Gender'].ne('Unknown')
+    nas = merged['Gender'].ne('Unknown')
     merged = merged[nas]
     merged = merged.merge(statewise_testing, left_on=['date', 'State'], right_on=['Date', 'State']).drop('date', axis=1)
     merged = merged.merge(zones, left_on=['district', 'State'], right_on=['district', 'state']).drop('state', axis=1)
