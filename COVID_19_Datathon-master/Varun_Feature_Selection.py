@@ -19,7 +19,7 @@ def merge_dfs(patient, district, statewise_testing, zones, hospital_beds, icmr, 
      'NumPublicBeds_HMIS', 'NumRuralHospitals_NHP18', 'NumRuralBeds_NHP18', 'NumUrbanHospitals_NHP18',
      'NumUrbanBeds_NHP18']
     merged[bed_cols] = merged[bed_cols].fillna(0)
-    merged = merged.merge(icmr, left_on='State', right_on='state').drop('state', axis=1)
+    merged = merged.merge(icmr, left_on='State', right_on='state', how='left').drop('state', axis=1)
     return merged
 
 def merge_census(merged, census):
@@ -42,6 +42,7 @@ def main():
     census = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\census_merge.csv", encoding="cp1252")
     census = census.drop(['Sno', 'State_name'], axis=1)
     census = census.rename(columns={'State__Union_Territory':'State'})
+    census['District_name'] = census['District_name'].replace('Ahmadabad', 'Ahmedabad')
     new_merge = merge_census(merged, census) 
     new_merge.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\final-merge.csv", encoding="cp1252")
 
