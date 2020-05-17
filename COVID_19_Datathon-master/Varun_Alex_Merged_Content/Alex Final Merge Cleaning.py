@@ -46,7 +46,7 @@ def main():
     final.to_sql('state', conn, index=False)
 
     qry = '''
-    SELECT *
+    SELECT 
     FROM final
     ORDER BY DaysFromFirstDate, State, district
     '''
