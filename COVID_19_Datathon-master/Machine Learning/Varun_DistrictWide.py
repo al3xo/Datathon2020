@@ -15,18 +15,18 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import cross_val_score
 
 def select_k_best(df, k):
-    X = df.drop(['Positive'], axis=1)
-    y = df['Positive']
+    X = df.drop(['active'], axis=1)
+    y = df['active']
     fs = SelectKBest(score_func=f_regression, k=k)
     fs.fit_transform(X, y)
     cols = fs.get_support(indices=True)
     new_df = df.iloc[:,cols]
-    new_df['Positive'] = y
+    new_df['active'] = y
     return new_df
 
 def remove_high_correlation(df):
     correlated_features = set()
-    correlation_matrix = df.drop('Positive', axis=1).corr()
+    correlation_matrix = df.drop('active', axis=1).corr()
     for i in range(len(correlation_matrix.columns)):
         for j in range(i):
             if abs(correlation_matrix.iloc[i, j]) > 0.8:
@@ -40,8 +40,8 @@ def model(df):
     df = pd.get_dummies(df)
     df = remove_high_correlation(df)
     df = select_k_best(df, k_val)
-    X = df.drop('Positive', axis=1)
-    y = df['Positive']
+    X = df.drop('active', axis=1)
+    y = df['active']
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state=42)
     sc = StandardScaler()
     X_train = sc.fit_transform(X_train)
@@ -57,12 +57,12 @@ def model(df):
     print(scores.mean())
 
 def svr(df):
-    k_val = 70
+    k_val = 40
     df = pd.get_dummies(df)
     df = remove_high_correlation(df)
     df = select_k_best(df, k_val)
-    X = df.drop('Positive', axis=1)
-    y = df['Positive']
+    X = df.drop('active', axis=1)
+    y = df['active']
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state=42)
     sc = StandardScaler()
     X_train = sc.fit_transform(X_train)
@@ -79,8 +79,8 @@ def lasso_cv(df):
     df = pd.get_dummies(df)
     df = remove_high_correlation(df)
     df = select_k_best(df, k_val)
-    X = df.drop('Positive', axis=1)
-    y = df['Positive']
+    X = df.drop('active', axis=1)
+    y = df['active']
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state=42)
     sc = StandardScaler()
     X_train = sc.fit_transform(X_train)
@@ -94,14 +94,15 @@ def lasso_cv(df):
     scores = cross_val_score(lasso, X_train, y_train, cv=20)
     print(scores)
     print(scores.mean())
+    test(lasso, X)
 
 def elastic_net(df):
-    k_val = 50
+    k_val = 40
     df = pd.get_dummies(df)
     df = remove_high_correlation(df)
     df = select_k_best(df, k_val)
-    X = df.drop('Positive', axis=1)
-    y = df['Positive']
+    X = df.drop('active', axis=1)
+    y = df['active']
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state=42)
     sc = StandardScaler()
     X_train = sc.fit_transform(X_train)
@@ -115,14 +116,29 @@ def elastic_net(df):
     scores = cross_val_score(en, X_train, y_train, cv=20)
     print(scores)
     print(scores.mean())
+    test(en, X)
+
+def test(model, X):
+    df = pd.read_csv(r'C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Test Data\Chennai.csv')
+    X_war = df.filter(X.columns)
+    for col in X.columns:
+        if col not in X_war.columns:
+            X_war[col]=0
+    y_war = df['active']
+    pred = model.predict(X_war)
+    for i in range(len(X_war)):
+        print(y_war[i])
+        print(pred[i])
 
 def main():
     #40 seems to be the general highest accuracy for k best
-    df = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\final_merge_cleaned.csv") 
-    svr(df) # - not very accurate. Around 30%
-    model(df) # - fairly accurate. Common and averages around 70%
-    lasso_cv(df) # - fairly accurate. Common and averages around 70% with default CV and manual CV
-    elastic_net(df) # - not as accurate. Commonly around 60% but averages show to be closer to 45%
+    df = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\final_plus_state.csv")
+    # df = df.drop(['Unnamed: 0', 'Gender_F', 'Gender_M', 'Gender_Non-Binary', 'Positive',
+    #  'deceased', 'recovered', 'confirmed', 'state_active', 'state_recovered', 'state_deceased'], axis=1)
+    #svr(df) # - not very accurate. Around 30%. Worst.
+    #model(df) # - fairly accurate. Common and averages around 70%. Best or tied
+    lasso_cv(df) # - fairly accurate. Common and averages around 70% with default CV and manual CV. Best or tied
+    #elastic_net(df) # - not as accurate. Commonly around 60% but averages show to be closer to 45%. Third roughly
 
 if __name__=="__main__":
     main()
