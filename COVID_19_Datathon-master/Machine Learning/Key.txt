@@ -1,0 +1,2 @@
+Variables to consider-
+Positive, active, confirmed, deceased, recovered
