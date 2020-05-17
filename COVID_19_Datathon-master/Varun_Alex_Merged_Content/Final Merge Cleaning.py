@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.feature_selection import SelectKBest
 from sklearn.feature_selection import f_regression
+import sqlite3 as sql
 
 def select_k_best(df, k):
     X = df.drop(['Won'], axis=1)
@@ -30,10 +31,27 @@ def remove_high_correlation(df):
     return df
 
 def main():
-    final = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\final-merge.csv", encoding='cp1252')
+    final = pd.read_csv(r"C:\Users\Alex Omusoru\Documents\GitHub\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\final-merge.csv", encoding='cp1252')
     final = final.drop(['Contracted_from_which Patient_Suspected', 'Notes', 'Type_of_transmission',
      'Unnamed: 0_x', 'Unnamed: 0_y', 'Sno', 'statecode', 'Age_Bracket'], axis=1)
     final = pd.get_dummies(final, columns=['Gender']).drop('Unnamed: 0', axis=1)
+
+    final = final.sort_values('Date')
+    final['DaysFromFirstDate'] = 0
+    xs = [list(g) for k, g in groupby(final['Date'].tolist())]
+    final['DaysFromFirstDate'] += np.repeat(range(len(xs)),[len(x) for x in xs])
+
+    conn = sql.connect(':memory:')
+    final.to_sql('final', conn, index=False)
+    final.to_sql('state', conn, index=False)
+
+    qry = '''
+    SELECT *
+    FROM final
+    ORDER BY DaysFromFirstDate, State, district
+    '''
+    df = pd.read_sql_query(qry, conn)
+    df.to_csv(r"C:\Users\Alex Omusoru\Documents\GitHub\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\final_merge_cleaned.csv", encoding="cp1252")
     
     
 
