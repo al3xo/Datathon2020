@@ -38,7 +38,7 @@ def main():
     state_census = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\additional_data\state_population_india_census2011.csv")
     merged = merge_dfs(patient_city_district_may_5_refined, districts_daily_refined, statewise_testing_refined,
      zones_refined, hospital_beds, icmr, district_census, state_census)
-    #merged.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\patient-to-icmr-merge.csv")
+    merged.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\patient-to-icmr-merge.csv")
     census = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\census_merge.csv", encoding="cp1252")
     census = census.drop(['Sno', 'State_name'], axis=1)
     census = census.rename(columns={'State__Union_Territory':'State'})

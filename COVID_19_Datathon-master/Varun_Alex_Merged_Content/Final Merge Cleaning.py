@@ -7,11 +7,10 @@ import sqlite3 as sql
 def main():
     final = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\final-merge.csv", encoding='cp1252')
     final = final.drop(['Contracted_from_which Patient_Suspected', 'Notes', 'Type_of_transmission',
-     'Unnamed: 0_x', 'Unnamed: 0_y', 'Unnamed: 0.1', 'Sno', 'statecode', 'State_Code', 'Age_Bracket'], axis=1)
+     'Unnamed: 0_x', 'Unnamed: 0_y', 'Sno', 'statecode', 'State_Code', 'Age_Bracket'], axis=1)
     final = pd.get_dummies(final, columns=['Gender']).drop('Unnamed: 0', axis=1)
     final['Density'] = final['Density'].str.split('/').str[0]
     final['Area'] = final['Area'].str.split().str[0]
-
     final = final.sort_values('Date')
     final['DaysFromFirstDate'] = 0
     xs = [list(g) for k, g in groupby(final['Date'].tolist())]

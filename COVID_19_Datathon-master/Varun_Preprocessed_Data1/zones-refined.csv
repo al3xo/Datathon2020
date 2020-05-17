@@ -1,736 +1,726 @@
-,district,state,statecode,zone
-0,Nicobars,Andaman and Nicobar Islands,AN,1.0
-1,North and Middle Andaman,Andaman and Nicobar Islands,AN,1.0
-2,South Andaman,Andaman and Nicobar Islands,AN,3.0
-3,Anantapur,Andhra Pradesh,AP,2.0
-4,Chittoor,Andhra Pradesh,AP,3.0
-5,East Godavari,Andhra Pradesh,AP,2.0
-6,Guntur,Andhra Pradesh,AP,3.0
-7,Krishna,Andhra Pradesh,AP,3.0
-8,Kurnool,Andhra Pradesh,AP,3.0
-9,Prakasam,Andhra Pradesh,AP,2.0
-10,S.P.S. Nellore,Andhra Pradesh,AP,3.0
-11,Srikakulam,Andhra Pradesh,AP,2.0
-12,Visakhapatnam,Andhra Pradesh,AP,2.0
-13,Vizianagaram,Andhra Pradesh,AP,2.0
-14,West Godavari,Andhra Pradesh,AP,2.0
-15,Y.S.R. Kadapa,Andhra Pradesh,AP,2.0
-16,Anjaw,Arunachal Pradesh,AR,1.0
-17,Changlang,Arunachal Pradesh,AR,1.0
-18,East Kameng,Arunachal Pradesh,AR,1.0
-19,East Siang,Arunachal Pradesh,AR,1.0
-20,Kamle,Arunachal Pradesh,AR,1.0
-21,Kra Daadi,Arunachal Pradesh,AR,1.0
-22,Kurung Kumey,Arunachal Pradesh,AR,1.0
-23,Lepa Rada,Arunachal Pradesh,AR,1.0
-24,Lohit,Arunachal Pradesh,AR,1.0
-25,Longding,Arunachal Pradesh,AR,1.0
-26,Lower Dibang Valley,Arunachal Pradesh,AR,1.0
-27,Lower Siang,Arunachal Pradesh,AR,1.0
-28,Lower Subansiri,Arunachal Pradesh,AR,1.0
-29,Namsai,Arunachal Pradesh,AR,1.0
-30,Pakke Kessang,Arunachal Pradesh,AR,1.0
-31,Papum Pare,Arunachal Pradesh,AR,1.0
-32,Shi Yomi,Arunachal Pradesh,AR,1.0
-33,Siang,Arunachal Pradesh,AR,1.0
-34,Tawang,Arunachal Pradesh,AR,1.0
-35,Tirap,Arunachal Pradesh,AR,1.0
-36,Upper Dibang Valley,Arunachal Pradesh,AR,1.0
-37,Upper Siang,Arunachal Pradesh,AR,1.0
-38,Upper Subansiri,Arunachal Pradesh,AR,1.0
-39,West Kameng,Arunachal Pradesh,AR,1.0
-40,West Siang,Arunachal Pradesh,AR,1.0
-41,Baksa,Assam,AS,1.0
-42,Barpeta,Assam,AS,1.0
-43,Biswanath,Assam,AS,1.0
-44,Bongaigaon,Assam,AS,3.0
-45,Cachar,Assam,AS,2.0
-46,Charaideo,Assam,AS,1.0
-47,Chirang,Assam,AS,1.0
-48,Darrang,Assam,AS,1.0
-49,Dhemaji,Assam,AS,1.0
-50,Dhubri,Assam,AS,2.0
-51,Dibrugarh,Assam,AS,1.0
-52,Dima Hasao,Assam,AS,1.0
-53,Goalpara,Assam,AS,2.0
-54,Golaghat,Assam,AS,1.0
-55,Hailakandi,Assam,AS,1.0
-56,Hojai,Assam,AS,1.0
-57,Jorhat,Assam,AS,1.0
-58,Kamrup,Assam,AS,1.0
-59,Kamrup Metropolitan,Assam,AS,2.0
-60,Karbi Anglong,Assam,AS,1.0
-61,Karimganj,Assam,AS,1.0
-62,Kokrajhar,Assam,AS,1.0
-63,Lakhimpur,Assam,AS,1.0
-64,Majuli,Assam,AS,1.0
-65,Morigaon,Assam,AS,2.0
-66,Nagaon,Assam,AS,1.0
-67,Nalbari,Assam,AS,1.0
-68,Sivasagar,Assam,AS,1.0
-69,Sonitpur,Assam,AS,1.0
-70,South Salmara Mankachar,Assam,AS,1.0
-71,Tinsukia,Assam,AS,1.0
-72,Udalguri,Assam,AS,1.0
-73,West Karbi Anglong,Assam,AS,1.0
-74,Araria,Bihar,BR,1.0
-75,Arwal,Bihar,BR,2.0
-76,Aurangabad,Bihar,BR,2.0
-77,Banka,Bihar,BR,2.0
-78,Begusarai,Bihar,BR,2.0
-79,Bhagalpur,Bihar,BR,2.0
-80,Bhojpur,Bihar,BR,2.0
-81,Buxar,Bihar,BR,3.0
-82,Darbhanga,Bihar,BR,2.0
-83,East Champaran,Bihar,BR,2.0
-84,Gaya,Bihar,BR,3.0
-85,Gopalganj,Bihar,BR,2.0
-86,Jamui,Bihar,BR,1.0
-87,Jehanabad,Bihar,BR,2.0
-88,Kaimur,Bihar,BR,2.0
-89,Katihar,Bihar,BR,2.0
-90,Khagaria,Bihar,BR,2.0
-91,Kishanganj,Bihar,BR,2.0
-92,Lakhisarai,Bihar,BR,2.0
-93,Madhepura,Bihar,BR,2.0
-94,Madhubani,Bihar,BR,2.0
-95,Munger,Bihar,BR,3.0
-96,Muzaffarpur,Bihar,BR,2.0
-97,Nalanda,Bihar,BR,2.0
-98,Nawada,Bihar,BR,2.0
-99,Patna,Bihar,BR,3.0
-100,Purnia,Bihar,BR,2.0
-101,Rohtas,Bihar,BR,3.0
-102,Saharsa,Bihar,BR,2.0
-103,Samastipur,Bihar,BR,2.0
-104,Saran,Bihar,BR,2.0
-105,Sheikhpura,Bihar,BR,2.0
-106,Sheohar,Bihar,BR,2.0
-107,Sitamarhi,Bihar,BR,1.0
-108,Siwan,Bihar,BR,2.0
-109,Supaul,Bihar,BR,2.0
-110,Vaishali,Bihar,BR,2.0
-111,West Champaran,Bihar,BR,1.0
-112,Chandigarh,Chandigarh,CH,3.0
-113,Balod,Chhattisgarh,CT,1.0
-114,Baloda Bazar,Chhattisgarh,CT,1.0
-115,Balrampur,Chhattisgarh,CT,1.0
-116,Bametara,Chhattisgarh,CT,1.0
-117,Bastar,Chhattisgarh,CT,1.0
-118,Bijapur,Chhattisgarh,CT,1.0
-119,Bilaspur,Chhattisgarh,CT,1.0
-120,Dakshin Bastar Dantewada,Chhattisgarh,CT,1.0
-121,Dhamtari,Chhattisgarh,CT,1.0
-122,Durg,Chhattisgarh,CT,1.0
-123,Gariaband,Chhattisgarh,CT,1.0
-124,Janjgir Champa,Chhattisgarh,CT,1.0
-125,Jashpur,Chhattisgarh,CT,1.0
-126,Kabeerdham,Chhattisgarh,CT,1.0
-127,Kondagaon,Chhattisgarh,CT,1.0
-128,Korba,Chhattisgarh,CT,2.0
-129,Koriya,Chhattisgarh,CT,1.0
-130,Mahasamund,Chhattisgarh,CT,1.0
-131,Mungeli,Chhattisgarh,CT,1.0
-132,Narayanpur,Chhattisgarh,CT,1.0
-133,Raigarh,Chhattisgarh,CT,1.0
-134,Raipur,Chhattisgarh,CT,3.0
-135,Rajnandgaon,Chhattisgarh,CT,1.0
-136,Sukma,Chhattisgarh,CT,1.0
-137,Surajpur,Chhattisgarh,CT,1.0
-138,Surguja,Chhattisgarh,CT,1.0
-139,Uttar Bastar Kanker,Chhattisgarh,CT,1.0
-140,Central Delhi,Delhi,DL,3.0
-141,East Delhi,Delhi,DL,3.0
-142,New Delhi,Delhi,DL,3.0
-143,North Delhi,Delhi,DL,3.0
-144,North East Delhi,Delhi,DL,3.0
-145,North West Delhi,Delhi,DL,3.0
-146,Shahdara,Delhi,DL,3.0
-147,South Delhi,Delhi,DL,3.0
-148,South East Delhi,Delhi,DL,3.0
-149,South West Delhi,Delhi,DL,3.0
-150,West Delhi,Delhi,DL,3.0
-151,Dadra and Nagar Haveli,Dadra and Nagar Haveli and Daman and Diu,DN,2.0
-152,Daman,Dadra and Nagar Haveli and Daman and Diu,DN,1.0
-153,Diu,Dadra and Nagar Haveli and Daman and Diu,DN,1.0
-154,North Goa,Goa,GA,1.0
-155,South Goa,Goa,GA,1.0
-156,Ahmedabad,Gujarat,GJ,3.0
-157,Amreli,Gujarat,GJ,1.0
-158,Anand,Gujarat,GJ,3.0
-159,Aravalli,Gujarat,GJ,3.0
-160,Banaskantha,Gujarat,GJ,3.0
-161,Bharuch,Gujarat,GJ,2.0
-162,Bhavnagar,Gujarat,GJ,3.0
-163,Botad,Gujarat,GJ,2.0
-164,Chhota Udaipur,Gujarat,GJ,2.0
-165,Dahod,Gujarat,GJ,2.0
-166,Dang,Gujarat,GJ,2.0
-167,Devbhumi Dwarka,Gujarat,GJ,2.0
-168,Gandhinagar,Gujarat,GJ,3.0
-169,Gir Somnath,Gujarat,GJ,2.0
-170,Jamnagar,Gujarat,GJ,2.0
-171,Junagadh,Gujarat,GJ,1.0
-172,Kheda,Gujarat,GJ,2.0
-173,Kutch,Gujarat,GJ,2.0
-174,Mahisagar,Gujarat,GJ,2.0
-175,Mehsana,Gujarat,GJ,2.0
-176,Morbi,Gujarat,GJ,1.0
-177,Narmada,Gujarat,GJ,2.0
-178,Navsari,Gujarat,GJ,2.0
-179,Panchmahal,Gujarat,GJ,3.0
-180,Patan,Gujarat,GJ,2.0
-181,Porbandar,Gujarat,GJ,1.0
-182,Rajkot,Gujarat,GJ,2.0
-183,Sabarkantha,Gujarat,GJ,2.0
-184,Surat,Gujarat,GJ,3.0
-185,Surendranagar,Gujarat,GJ,2.0
-186,Tapi,Gujarat,GJ,2.0
-187,Vadodara,Gujarat,GJ,3.0
-188,Valsad,Gujarat,GJ,2.0
-189,Bilaspur,Himachal Pradesh,HP,1.0
-190,Chamba,Himachal Pradesh,HP,2.0
-191,Hamirpur,Himachal Pradesh,HP,2.0
-192,Kangra,Himachal Pradesh,HP,2.0
-193,Kinnaur,Himachal Pradesh,HP,1.0
-194,Kullu,Himachal Pradesh,HP,1.0
-195,Lahaul and Spiti,Himachal Pradesh,HP,1.0
-196,Mandi,Himachal Pradesh,HP,1.0
-197,Shimla,Himachal Pradesh,HP,2.0
-198,Sirmaur,Himachal Pradesh,HP,2.0
-199,Solan,Himachal Pradesh,HP,2.0
-200,Una,Himachal Pradesh,HP,2.0
-201,Ambala,Haryana,HR,2.0
-202,Bhiwani,Haryana,HR,2.0
-203,Charkhi Dadri,Haryana,HR,2.0
-204,Faridabad,Haryana,HR,3.0
-205,Fatehabad,Haryana,HR,2.0
-206,Gurugram,Haryana,HR,2.0
-207,Hisar,Haryana,HR,2.0
-208,Jhajjar,Haryana,HR,2.0
-209,Jind,Haryana,HR,2.0
-210,Kaithal,Haryana,HR,2.0
-211,Karnal,Haryana,HR,2.0
-212,Kurukshetra,Haryana,HR,2.0
-213,Mahendragarh,Haryana,HR,2.0
-214,Nuh,Haryana,HR,2.0
-215,Palwal,Haryana,HR,2.0
-216,Panchkula,Haryana,HR,2.0
-217,Panipat,Haryana,HR,2.0
-218,Rewari,Haryana,HR,1.0
-219,Rohtak,Haryana,HR,2.0
-220,Sirsa,Haryana,HR,2.0
-221,Sonipat,Haryana,HR,3.0
-222,Yamunanagar,Haryana,HR,2.0
-223,Bokaro,Jharkhand,JH,2.0
-224,Chatra,Jharkhand,JH,1.0
-225,Deoghar,Jharkhand,JH,2.0
-226,Dhanbad,Jharkhand,JH,2.0
-227,Dumka,Jharkhand,JH,1.0
-228,East Singhbhum,Jharkhand,JH,1.0
-229,Garhwa,Jharkhand,JH,2.0
-230,Giridih,Jharkhand,JH,2.0
-231,Godda,Jharkhand,JH,1.0
-232,Gumla,Jharkhand,JH,1.0
-233,Hazaribagh,Jharkhand,JH,2.0
-234,Jamtara,Jharkhand,JH,2.0
-235,Khunti,Jharkhand,JH,1.0
-236,Koderma,Jharkhand,JH,2.0
-237,Latehar,Jharkhand,JH,1.0
-238,Lohardaga,Jharkhand,JH,1.0
-239,Pakur,Jharkhand,JH,1.0
-240,Palamu,Jharkhand,JH,2.0
-241,Ramgarh,Jharkhand,JH,1.0
-242,Ranchi,Jharkhand,JH,3.0
-243,Sahibganj,Jharkhand,JH,1.0
-244,Saraikela-Kharsawan,Jharkhand,JH,1.0
-245,Simdega,Jharkhand,JH,2.0
-246,West Singhbhum,Jharkhand,JH,1.0
-247,Anantnag,Jammu and Kashmir,JK,3.0
-248,Bandipora,Jammu and Kashmir,JK,3.0
-249,Baramulla,Jammu and Kashmir,JK,3.0
-250,Budgam,Jammu and Kashmir,JK,3.0
-251,Doda,Jammu and Kashmir,JK,1.0
-252,Ganderbal,Jammu and Kashmir,JK,3.0
-253,Jammu,Jammu and Kashmir,JK,3.0
-254,Kathua,Jammu and Kashmir,JK,3.0
-255,Kishtwar,Jammu and Kashmir,JK,1.0
-256,Kulgam,Jammu and Kashmir,JK,3.0
-257,Kupwara,Jammu and Kashmir,JK,3.0
-258,Mirpur,Jammu and Kashmir,JK,
-259,Muzaffarabad,Jammu and Kashmir,JK,
-260,Pulwama,Jammu and Kashmir,JK,3.0
-261,Punch,Jammu and Kashmir,JK,1.0
-262,Rajouri,Jammu and Kashmir,JK,2.0
-263,Ramban,Jammu and Kashmir,JK,2.0
-264,Reasi,Jammu and Kashmir,JK,2.0
-265,Samba,Jammu and Kashmir,JK,3.0
-266,Shopiyan,Jammu and Kashmir,JK,3.0
-267,Srinagar,Jammu and Kashmir,JK,3.0
-268,Udhampur,Jammu and Kashmir,JK,2.0
-269,Bagalkote,Karnataka,KA,2.0
-270,Ballari,Karnataka,KA,2.0
-271,Belagavi,Karnataka,KA,2.0
-272,Bengaluru Rural,Karnataka,KA,3.0
-273,Bengaluru Urban,Karnataka,KA,3.0
-274,Bidar,Karnataka,KA,2.0
-275,Chamarajanagara,Karnataka,KA,1.0
-276,Chikkaballapura,Karnataka,KA,2.0
-277,Chikkamagaluru,Karnataka,KA,1.0
-278,Chitradurga,Karnataka,KA,2.0
-279,Dakshina Kannada,Karnataka,KA,2.0
-280,Davanagere,Karnataka,KA,2.0
-281,Dharwad,Karnataka,KA,2.0
-282,Gadag,Karnataka,KA,2.0
-283,Hassan,Karnataka,KA,2.0
-284,Haveri,Karnataka,KA,2.0
-285,Kalaburagi,Karnataka,KA,2.0
-286,Kodagu,Karnataka,KA,1.0
-287,Kolar,Karnataka,KA,2.0
-288,Koppal,Karnataka,KA,1.0
-289,Mandya,Karnataka,KA,2.0
-290,Mysuru,Karnataka,KA,3.0
-291,Raichur,Karnataka,KA,1.0
-292,Ramanagara,Karnataka,KA,1.0
-293,Shivamogga,Karnataka,KA,2.0
-294,Tumakuru,Karnataka,KA,2.0
-295,Udupi,Karnataka,KA,2.0
-296,Uttara Kannada,Karnataka,KA,2.0
-297,Vijayapura,Karnataka,KA,2.0
-298,Yadgir,Karnataka,KA,1.0
-299,Alappuzha,Kerala,KL,1.0
-300,Ernakulam,Kerala,KL,1.0
-301,Idukki,Kerala,KL,2.0
-302,Kannur,Kerala,KL,3.0
-303,Kasaragod,Kerala,KL,2.0
-304,Kollam,Kerala,KL,2.0
-305,Kottayam,Kerala,KL,3.0
-306,Kozhikode,Kerala,KL,2.0
-307,Malappuram,Kerala,KL,2.0
-308,Palakkad,Kerala,KL,2.0
-309,Pathanamthitta,Kerala,KL,2.0
-310,Thiruvananthapuram,Kerala,KL,2.0
-311,Thrissur,Kerala,KL,1.0
-312,Wayanad,Kerala,KL,2.0
-313,Kargil,Ladakh,LA,2.0
-314,Leh,Ladakh,LA,2.0
-315,Lakshadweep,Lakshadweep,LD,1.0
-316,Ahmednagar,Maharashtra,MH,2.0
-317,Akola,Maharashtra,MH,3.0
-318,Amravati,Maharashtra,MH,2.0
-319,Aurangabad,Maharashtra,MH,3.0
-320,Beed,Maharashtra,MH,2.0
-321,Bhandara,Maharashtra,MH,2.0
-322,Buldhana,Maharashtra,MH,2.0
-323,Chandrapur,Maharashtra,MH,2.0
-324,Dhule,Maharashtra,MH,3.0
-325,Gadchiroli,Maharashtra,MH,1.0
-326,Gondia,Maharashtra,MH,1.0
-327,Hingoli,Maharashtra,MH,2.0
-328,Jalgaon,Maharashtra,MH,3.0
-329,Jalna,Maharashtra,MH,2.0
-330,Kolhapur,Maharashtra,MH,2.0
-331,Latur,Maharashtra,MH,2.0
-332,Mumbai,Maharashtra,MH,3.0
-333,Mumbai Suburban,Maharashtra,MH,3.0
-334,Nagpur,Maharashtra,MH,3.0
-335,Nanded,Maharashtra,MH,2.0
-336,Nandurbar,Maharashtra,MH,2.0
-337,Nashik,Maharashtra,MH,3.0
-338,Osmanabad,Maharashtra,MH,1.0
-339,Palghar,Maharashtra,MH,3.0
-340,Parbhani,Maharashtra,MH,2.0
-341,Pune,Maharashtra,MH,3.0
-342,Raigad,Maharashtra,MH,2.0
-343,Ratnagiri,Maharashtra,MH,2.0
-344,Sangli,Maharashtra,MH,2.0
-345,Satara,Maharashtra,MH,3.0
-346,Sindhudurg,Maharashtra,MH,2.0
-347,Solapur,Maharashtra,MH,3.0
-348,Thane,Maharashtra,MH,3.0
-349,Wardha,Maharashtra,MH,1.0
-350,Washim,Maharashtra,MH,1.0
-351,Yavatmal,Maharashtra,MH,3.0
-352,East Garo Hills,Meghalaya,ML,1.0
-353,East Jaintia Hills,Meghalaya,ML,1.0
-354,East Khasi Hills,Meghalaya,ML,2.0
-355,North Garo Hills,Meghalaya,ML,1.0
-356,Ribhoi,Meghalaya,ML,1.0
-357,South Garo Hills,Meghalaya,ML,1.0
-358,South West Garo Hills,Meghalaya,ML,1.0
-359,South West Khasi Hills,Meghalaya,ML,1.0
-360,West Garo Hills,Meghalaya,ML,1.0
-361,West Jaintia Hills,Meghalaya,ML,1.0
-362,West Khasi Hills,Meghalaya,ML,1.0
-363,Bishnupur,Manipur,MN,1.0
-364,Chandel,Manipur,MN,1.0
-365,Churachandpur,Manipur,MN,1.0
-366,Imphal East,Manipur,MN,1.0
-367,Imphal West,Manipur,MN,1.0
-368,Jiribam,Manipur,MN,1.0
-369,Kakching,Manipur,MN,1.0
-370,Kamjong,Manipur,MN,1.0
-371,Kangpokpi,Manipur,MN,1.0
-372,Noney,Manipur,MN,1.0
-373,Pherzawl,Manipur,MN,1.0
-374,Senapati,Manipur,MN,1.0
-375,Tamenglong,Manipur,MN,1.0
-376,Tengnoupal,Manipur,MN,1.0
-377,Thoubal,Manipur,MN,1.0
-378,Ukhrul,Manipur,MN,1.0
-379,Agar Malwa,Madhya Pradesh,MP,2.0
-380,Alirajpur,Madhya Pradesh,MP,2.0
-381,Anuppur,Madhya Pradesh,MP,1.0
-382,Ashoknagar,Madhya Pradesh,MP,1.0
-383,Balaghat,Madhya Pradesh,MP,1.0
-384,Barwani,Madhya Pradesh,MP,3.0
-385,Betul,Madhya Pradesh,MP,2.0
-386,Bhind,Madhya Pradesh,MP,1.0
-387,Bhopal,Madhya Pradesh,MP,3.0
-388,Burhanpur,Madhya Pradesh,MP,2.0
-389,Chhatarpur,Madhya Pradesh,MP,1.0
-390,Chhindwara,Madhya Pradesh,MP,2.0
-391,Damoh,Madhya Pradesh,MP,1.0
-392,Datia,Madhya Pradesh,MP,1.0
-393,Dewas,Madhya Pradesh,MP,3.0
-394,Dhar,Madhya Pradesh,MP,3.0
-395,Dindori,Madhya Pradesh,MP,2.0
-396,Guna,Madhya Pradesh,MP,2.0
-397,Gwalior,Madhya Pradesh,MP,3.0
-398,Harda,Madhya Pradesh,MP,2.0
-399,Hoshangabad,Madhya Pradesh,MP,2.0
-400,Indore,Madhya Pradesh,MP,3.0
-401,Jabalpur,Madhya Pradesh,MP,3.0
-402,Jhabua,Madhya Pradesh,MP,1.0
-403,Katni,Madhya Pradesh,MP,1.0
-404,Khandwa,Madhya Pradesh,MP,3.0
-405,Khargone,Madhya Pradesh,MP,2.0
-406,Mandla,Madhya Pradesh,MP,1.0
-407,Mandsaur,Madhya Pradesh,MP,2.0
-408,Morena,Madhya Pradesh,MP,2.0
-409,Narsinghpur,Madhya Pradesh,MP,1.0
-410,Neemuch,Madhya Pradesh,MP,2.0
-411,Niwari,Madhya Pradesh,MP,1.0
-412,Panna,Madhya Pradesh,MP,1.0
-413,Raisen,Madhya Pradesh,MP,2.0
-414,Rajgarh,Madhya Pradesh,MP,1.0
-415,Ratlam,Madhya Pradesh,MP,2.0
-416,Rewa,Madhya Pradesh,MP,1.0
-417,Sagar,Madhya Pradesh,MP,2.0
-418,Satna,Madhya Pradesh,MP,1.0
-419,Sehore,Madhya Pradesh,MP,2.0
-420,Seoni,Madhya Pradesh,MP,1.0
-421,Shahdol,Madhya Pradesh,MP,2.0
-422,Shajapur,Madhya Pradesh,MP,2.0
-423,Sheopur,Madhya Pradesh,MP,2.0
-424,Shivpuri,Madhya Pradesh,MP,1.0
-425,Sidhi,Madhya Pradesh,MP,1.0
-426,Singrauli,Madhya Pradesh,MP,1.0
-427,Tikamgarh,Madhya Pradesh,MP,2.0
-428,Ujjain,Madhya Pradesh,MP,3.0
-429,Umaria,Madhya Pradesh,MP,1.0
-430,Vidisha,Madhya Pradesh,MP,2.0
-431,Aizawl,Mizoram,MZ,1.0
-432,Champhai,Mizoram,MZ,1.0
-433,Hnahthial,Mizoram,MZ,1.0
-434,Khawzawl,Mizoram,MZ,1.0
-435,Kolasib,Mizoram,MZ,1.0
-436,Lawngtlai,Mizoram,MZ,1.0
-437,Lunglei,Mizoram,MZ,1.0
-438,Mamit,Mizoram,MZ,1.0
-439,Saiha,Mizoram,MZ,1.0
-440,Saitual,Mizoram,MZ,1.0
-441,Serchhip,Mizoram,MZ,1.0
-442,Dimapur,Nagaland,NL,1.0
-443,Kiphire,Nagaland,NL,1.0
-444,Kohima,Nagaland,NL,1.0
-445,Longleng,Nagaland,NL,1.0
-446,Mokokchung,Nagaland,NL,1.0
-447,Mon,Nagaland,NL,1.0
-448,Peren,Nagaland,NL,1.0
-449,Phek,Nagaland,NL,1.0
-450,Tuensang,Nagaland,NL,1.0
-451,Wokha,Nagaland,NL,1.0
-452,Zunheboto,Nagaland,NL,1.0
-453,Angul,Odisha,OR,3.0
-454,Balangir,Odisha,OR,2.0
-455,Balasore,Odisha,OR,3.0
-456,Bargarh,Odisha,OR,1.0
-457,Bhadrak,Odisha,OR,3.0
-458,Boudh,Odisha,OR,1.0
-459,Cuttack,Odisha,OR,1.0
-460,Deogarh,Odisha,OR,2.0
-461,Dhenkanal,Odisha,OR,2.0
-462,Gajapati,Odisha,OR,1.0
-463,Ganjam,Odisha,OR,3.0
-464,Jagatsinghpur,Odisha,OR,2.0
-465,Jajpur,Odisha,OR,3.0
-466,Jharsuguda,Odisha,OR,2.0
-467,Kalahandi,Odisha,OR,2.0
-468,Kandhamal,Odisha,OR,1.0
-469,Kendrapara,Odisha,OR,2.0
-470,Kendujhar,Odisha,OR,2.0
-471,Khordha,Odisha,OR,2.0
-472,Koraput,Odisha,OR,2.0
-473,Malkangiri,Odisha,OR,1.0
-474,Mayurbhanj,Odisha,OR,2.0
-475,Nabarangapur,Odisha,OR,1.0
-476,Nayagarh,Odisha,OR,2.0
-477,Nuapada,Odisha,OR,1.0
-478,Puri,Odisha,OR,1.0
-479,Rayagada,Odisha,OR,1.0
-480,Sambalpur,Odisha,OR,1.0
-481,Subarnapur,Odisha,OR,1.0
-482,Sundargarh,Odisha,OR,2.0
-483,Amritsar,Punjab,PB,2.0
-484,Barnala,Punjab,PB,2.0
-485,Bathinda,Punjab,PB,2.0
-486,Faridkot,Punjab,PB,2.0
-487,Fatehgarh Sahib,Punjab,PB,2.0
-488,Fazilka,Punjab,PB,1.0
-489,Ferozepur,Punjab,PB,2.0
-490,Gurdaspur,Punjab,PB,2.0
-491,Hoshiarpur,Punjab,PB,2.0
-492,Jalandhar,Punjab,PB,3.0
-493,Kapurthala,Punjab,PB,2.0
-494,Ludhiana,Punjab,PB,3.0
-495,Mansa,Punjab,PB,2.0
-496,Moga,Punjab,PB,2.0
-497,Pathankot,Punjab,PB,2.0
-498,Patiala,Punjab,PB,3.0
-499,Rupnagar,Punjab,PB,1.0
-500,S.A.S. Nagar,Punjab,PB,2.0
-501,Sangrur,Punjab,PB,2.0
-502,Shahid Bhagat Singh Nagar,Punjab,PB,2.0
-503,Sri Muktsar Sahib,Punjab,PB,2.0
-504,Tarn Taran,Punjab,PB,2.0
-505,Karaikal,Puducherry,PY,1.0
-506,Mahe,Puducherry,PY,1.0
-507,Puducherry,Puducherry,PY,2.0
-508,Yanam,Puducherry,PY,1.0
-509,Ajmer,Rajasthan,RJ,3.0
-510,Alwar,Rajasthan,RJ,2.0
-511,Banswara,Rajasthan,RJ,3.0
-512,Baran,Rajasthan,RJ,1.0
-513,Barmer,Rajasthan,RJ,2.0
-514,Bharatpur,Rajasthan,RJ,3.0
-515,Bhilwara,Rajasthan,RJ,2.0
-516,Bikaner,Rajasthan,RJ,2.0
-517,Bundi,Rajasthan,RJ,1.0
-518,Chittorgarh,Rajasthan,RJ,2.0
-519,Churu,Rajasthan,RJ,2.0
-520,Dausa,Rajasthan,RJ,2.0
-521,Dholpur,Rajasthan,RJ,2.0
-522,Dungarpur,Rajasthan,RJ,2.0
-523,Ganganagar,Rajasthan,RJ,1.0
-524,Hanumangarh,Rajasthan,RJ,2.0
-525,Jaipur,Rajasthan,RJ,3.0
-526,Jaisalmer,Rajasthan,RJ,2.0
-527,Jalore,Rajasthan,RJ,2.0
-528,Jhalawar,Rajasthan,RJ,3.0
-529,Jhunjhunu,Rajasthan,RJ,2.0
-530,Jodhpur,Rajasthan,RJ,3.0
-531,Karauli,Rajasthan,RJ,2.0
-532,Kota,Rajasthan,RJ,3.0
-533,Nagaur,Rajasthan,RJ,3.0
-534,Pali,Rajasthan,RJ,2.0
-535,Pratapgarh,Rajasthan,RJ,1.0
-536,Rajsamand,Rajasthan,RJ,2.0
-537,Sawai Madhopur,Rajasthan,RJ,2.0
-538,Sikar,Rajasthan,RJ,2.0
-539,Sirohi,Rajasthan,RJ,2.0
-540,Tonk,Rajasthan,RJ,2.0
-541,Udaipur,Rajasthan,RJ,2.0
-542,East District,Sikkim,SK,1.0
-543,North District,Sikkim,SK,1.0
-544,South District,Sikkim,SK,1.0
-545,West District,Sikkim,SK,1.0
-546,Adilabad,Telangana,TG,2.0
-547,Bhadradri Kothagudem,Telangana,TG,1.0
-548,Hyderabad,Telangana,TG,3.0
-549,Jagtial,Telangana,TG,2.0
-550,Jangaon,Telangana,TG,2.0
-551,Jayashankar Bhupalapally,Telangana,TG,2.0
-552,Jogulamba Gadwal,Telangana,TG,2.0
-553,Kamareddy,Telangana,TG,2.0
-554,Karimnagar,Telangana,TG,2.0
-555,Khammam,Telangana,TG,2.0
-556,Komaram Bheem,Telangana,TG,2.0
-557,Mahabubabad,Telangana,TG,1.0
-558,Mahabubnagar,Telangana,TG,2.0
-559,Mancherial,Telangana,TG,2.0
-560,Medak,Telangana,TG,2.0
-561,Medchal Malkajgiri,Telangana,TG,3.0
-562,Mulugu,Telangana,TG,1.0
-563,Nagarkurnool,Telangana,TG,1.0
-564,Nalgonda,Telangana,TG,2.0
-565,Narayanpet,Telangana,TG,2.0
-566,Nirmal,Telangana,TG,2.0
-567,Nizamabad,Telangana,TG,2.0
-568,Peddapalli,Telangana,TG,1.0
-569,Rajanna Sircilla,Telangana,TG,2.0
-570,Ranga Reddy,Telangana,TG,3.0
-571,Sangareddy,Telangana,TG,2.0
-572,Siddipet,Telangana,TG,1.0
-573,Suryapet,Telangana,TG,3.0
-574,Vikarabad,Telangana,TG,3.0
-575,Wanaparthy,Telangana,TG,1.0
-576,Warangal Rural,Telangana,TG,1.0
-577,Warangal Urban,Telangana,TG,3.0
-578,Yadadri Bhuvanagiri,Telangana,TG,1.0
-579,Ariyalur,Tamil Nadu,TN,2.0
-580,Chengalpattu,Tamil Nadu,TN,3.0
-581,Chennai,Tamil Nadu,TN,3.0
-582,Coimbatore,Tamil Nadu,TN,2.0
-583,Cuddalore,Tamil Nadu,TN,2.0
-584,Dharmapuri,Tamil Nadu,TN,2.0
-585,Dindigul,Tamil Nadu,TN,2.0
-586,Erode,Tamil Nadu,TN,1.0
-587,Kallakurichi,Tamil Nadu,TN,2.0
-588,Kancheepuram,Tamil Nadu,TN,3.0
-589,Kanyakumari,Tamil Nadu,TN,2.0
-590,Karur,Tamil Nadu,TN,2.0
-591,Krishnagiri,Tamil Nadu,TN,2.0
-592,Madurai,Tamil Nadu,TN,3.0
-593,Nagapattinam,Tamil Nadu,TN,2.0
-594,Namakkal,Tamil Nadu,TN,3.0
-595,Nilgiris,Tamil Nadu,TN,2.0
-596,Perambalur,Tamil Nadu,TN,2.0
-597,Pudukkottai,Tamil Nadu,TN,2.0
-598,Ramanathapuram,Tamil Nadu,TN,2.0
-599,Ranipet,Tamil Nadu,TN,3.0
-600,Salem,Tamil Nadu,TN,2.0
-601,Sivaganga,Tamil Nadu,TN,2.0
-602,Tenkasi,Tamil Nadu,TN,2.0
-603,Thanjavur,Tamil Nadu,TN,3.0
-604,Theni,Tamil Nadu,TN,2.0
-605,Thiruvallur,Tamil Nadu,TN,3.0
-606,Thiruvarur,Tamil Nadu,TN,3.0
-607,Thoothukkudi,Tamil Nadu,TN,2.0
-608,Tiruchirappalli,Tamil Nadu,TN,2.0
-609,Tirunelveli,Tamil Nadu,TN,2.0
-610,Tirupathur,Tamil Nadu,TN,2.0
-611,Tiruppur,Tamil Nadu,TN,3.0
-612,Tiruvannamalai,Tamil Nadu,TN,2.0
-613,Vellore,Tamil Nadu,TN,3.0
-614,Viluppuram,Tamil Nadu,TN,2.0
-615,Virudhunagar,Tamil Nadu,TN,3.0
-616,Dhalai,Tripura,TR,3.0
-617,Gomati,Tripura,TR,2.0
-618,Khowai,Tripura,TR,1.0
-619,North Tripura,Tripura,TR,2.0
-620,Sipahijala,Tripura,TR,1.0
-621,South Tripura,Tripura,TR,1.0
-622,Unokoti,Tripura,TR,1.0
-623,West Tripura,Tripura,TR,1.0
-624,Agra,Uttar Pradesh,UP,3.0
-625,Aligarh,Uttar Pradesh,UP,3.0
-626,Ambedkar Nagar,Uttar Pradesh,UP,1.0
-627,Amethi,Uttar Pradesh,UP,2.0
-628,Amroha,Uttar Pradesh,UP,3.0
-629,Auraiya,Uttar Pradesh,UP,2.0
-630,Ayodhya,Uttar Pradesh,UP,2.0
-631,Azamgarh,Uttar Pradesh,UP,2.0
-632,Baghpat,Uttar Pradesh,UP,2.0
-633,Bahraich,Uttar Pradesh,UP,2.0
-634,Ballia,Uttar Pradesh,UP,1.0
-635,Balrampur,Uttar Pradesh,UP,2.0
-636,Banda,Uttar Pradesh,UP,2.0
-637,Barabanki,Uttar Pradesh,UP,1.0
-638,Bareilly,Uttar Pradesh,UP,3.0
-639,Basti,Uttar Pradesh,UP,2.0
-640,Bhadohi,Uttar Pradesh,UP,2.0
-641,Bijnor,Uttar Pradesh,UP,3.0
-642,Budaun,Uttar Pradesh,UP,2.0
-643,Bulandshahr,Uttar Pradesh,UP,3.0
-644,Chandauli,Uttar Pradesh,UP,1.0
-645,Chitrakoot,Uttar Pradesh,UP,1.0
-646,Deoria,Uttar Pradesh,UP,2.0
-647,Etah,Uttar Pradesh,UP,2.0
-648,Etawah,Uttar Pradesh,UP,2.0
-649,Farrukhabad,Uttar Pradesh,UP,1.0
-650,Fatehpur,Uttar Pradesh,UP,2.0
-651,Firozabad,Uttar Pradesh,UP,3.0
-652,Gautam Buddha Nagar,Uttar Pradesh,UP,3.0
-653,Ghaziabad,Uttar Pradesh,UP,2.0
-654,Ghazipur,Uttar Pradesh,UP,2.0
-655,Gonda,Uttar Pradesh,UP,2.0
-656,Gorakhpur,Uttar Pradesh,UP,2.0
-657,Hamirpur,Uttar Pradesh,UP,1.0
-658,Hapur,Uttar Pradesh,UP,2.0
-659,Hardoi,Uttar Pradesh,UP,2.0
-660,Hathras,Uttar Pradesh,UP,2.0
-661,Jalaun,Uttar Pradesh,UP,2.0
-662,Jaunpur,Uttar Pradesh,UP,2.0
-663,Jhansi,Uttar Pradesh,UP,2.0
-664,Kannauj,Uttar Pradesh,UP,2.0
-665,Kanpur Dehat,Uttar Pradesh,UP,1.0
-666,Kanpur Nagar,Uttar Pradesh,UP,3.0
-667,Kasganj,Uttar Pradesh,UP,2.0
-668,Kaushambi,Uttar Pradesh,UP,2.0
-669,Kushinagar,Uttar Pradesh,UP,1.0
-670,Lakhimpur Kheri,Uttar Pradesh,UP,1.0
-671,Lalitpur,Uttar Pradesh,UP,1.0
-672,Lucknow,Uttar Pradesh,UP,3.0
-673,Maharajganj,Uttar Pradesh,UP,1.0
-674,Mahoba,Uttar Pradesh,UP,1.0
-675,Mainpuri,Uttar Pradesh,UP,2.0
-676,Mathura,Uttar Pradesh,UP,3.0
-677,Mau,Uttar Pradesh,UP,2.0
-678,Meerut,Uttar Pradesh,UP,3.0
-679,Mirzapur,Uttar Pradesh,UP,2.0
-680,Moradabad,Uttar Pradesh,UP,3.0
-681,Muzaffarnagar,Uttar Pradesh,UP,3.0
-682,Pilibhit,Uttar Pradesh,UP,2.0
-683,Pratapgarh,Uttar Pradesh,UP,2.0
-684,Prayagraj,Uttar Pradesh,UP,2.0
-685,Rae Bareli,Uttar Pradesh,UP,3.0
-686,Rampur,Uttar Pradesh,UP,3.0
-687,Saharanpur,Uttar Pradesh,UP,3.0
-688,Sambhal,Uttar Pradesh,UP,2.0
-689,Sant Kabir Nagar,Uttar Pradesh,UP,3.0
-690,Shahjahanpur,Uttar Pradesh,UP,1.0
-691,Shamli,Uttar Pradesh,UP,2.0
-692,Shrawasti,Uttar Pradesh,UP,2.0
-693,Siddharthnagar,Uttar Pradesh,UP,1.0
-694,Sitapur,Uttar Pradesh,UP,2.0
-695,Sonbhadra,Uttar Pradesh,UP,1.0
-696,Sultanpur,Uttar Pradesh,UP,2.0
-697,Unnao,Uttar Pradesh,UP,2.0
-698,Varanasi,Uttar Pradesh,UP,3.0
-699,Almora,Uttarakhand,UT,1.0
-700,Bageshwar,Uttarakhand,UT,1.0
-701,Chamoli,Uttarakhand,UT,1.0
-702,Champawat,Uttarakhand,UT,1.0
-703,Dehradun,Uttarakhand,UT,2.0
-704,Haridwar,Uttarakhand,UT,3.0
-705,Nainital,Uttarakhand,UT,2.0
-706,Pauri Garhwal,Uttarakhand,UT,1.0
-707,Pithoragarh,Uttarakhand,UT,1.0
-708,Rudraprayag,Uttarakhand,UT,1.0
-709,Tehri Garhwal,Uttarakhand,UT,1.0
-710,Udham Singh Nagar,Uttarakhand,UT,2.0
-711,Uttarkashi,Uttarakhand,UT,1.0
-712,Alipurduar,West Bengal,WB,1.0
-713,Bankura,West Bengal,WB,1.0
-714,Birbhum,West Bengal,WB,2.0
-715,Cooch Behar,West Bengal,WB,1.0
-716,Dakshin Dinajpur,West Bengal,WB,1.0
-717,Darjeeling,West Bengal,WB,2.0
-718,Hooghly,West Bengal,WB,2.0
-719,Howrah,West Bengal,WB,3.0
-720,Jalpaiguri,West Bengal,WB,2.0
-721,Jhargram,West Bengal,WB,1.0
-722,Kalimpong,West Bengal,WB,2.0
-723,Kolkata,West Bengal,WB,3.0
-724,Malda,West Bengal,WB,2.0
-725,Murshidabad,West Bengal,WB,2.0
-726,Nadia,West Bengal,WB,2.0
-727,North 24 Parganas,West Bengal,WB,3.0
-728,Paschim Bardhaman,West Bengal,WB,2.0
-729,Paschim Medinipur,West Bengal,WB,2.0
-730,Purba Bardhaman,West Bengal,WB,2.0
-731,Purba Medinipur,West Bengal,WB,3.0
-732,Purulia,West Bengal,WB,1.0
-733,South 24 Parganas,West Bengal,WB,2.0
-734,Uttar Dinajpur,West Bengal,WB,1.0
+district,state,statecode,zone
+Adilabad,Telangana,TG,2.0
+Agar Malwa,Madhya Pradesh,MP,2.0
+Agra,Uttar Pradesh,UP,3.0
+Ahmedabad,Gujarat,GJ,3.0
+Ahmednagar,Maharashtra,MH,2.0
+Aizawl,Mizoram,MZ,1.0
+Ajmer,Rajasthan,RJ,3.0
+Akola,Maharashtra,MH,3.0
+Alappuzha,Kerala,KL,1.0
+Aligarh,Uttar Pradesh,UP,3.0
+Alipurduar,West Bengal,WB,1.0
+Alirajpur,Madhya Pradesh,MP,2.0
+Almora,Uttarakhand,UT,1.0
+Alwar,Rajasthan,RJ,2.0
+Ambala,Haryana,HR,2.0
+Ambedkar Nagar,Uttar Pradesh,UP,1.0
+Amethi,Uttar Pradesh,UP,2.0
+Amravati,Maharashtra,MH,2.0
+Amreli,Gujarat,GJ,1.0
+Amritsar,Punjab,PB,2.0
+Amroha,Uttar Pradesh,UP,3.0
+Anand,Gujarat,GJ,3.0
+Anantapur,Andhra Pradesh,AP,2.0
+Anantnag,Jammu and Kashmir,JK,3.0
+Angul,Odisha,OR,3.0
+Anjaw,Arunachal Pradesh,AR,1.0
+Anuppur,Madhya Pradesh,MP,1.0
+Araria,Bihar,BR,1.0
+Aravalli,Gujarat,GJ,3.0
+Ariyalur,Tamil Nadu,TN,2.0
+Arwal,Bihar,BR,2.0
+Ashoknagar,Madhya Pradesh,MP,1.0
+Auraiya,Uttar Pradesh,UP,2.0
+Aurangabad,Bihar,BR,2.0
+Aurangabad,Maharashtra,MH,3.0
+Ayodhya,Uttar Pradesh,UP,2.0
+Azamgarh,Uttar Pradesh,UP,2.0
+Bagalkote,Karnataka,KA,2.0
+Bageshwar,Uttarakhand,UT,1.0
+Baghpat,Uttar Pradesh,UP,2.0
+Bahraich,Uttar Pradesh,UP,2.0
+Baksa,Assam,AS,1.0
+Balaghat,Madhya Pradesh,MP,1.0
+Balangir,Odisha,OR,2.0
+Balasore,Odisha,OR,3.0
+Ballari,Karnataka,KA,2.0
+Ballia,Uttar Pradesh,UP,1.0
+Balod,Chhattisgarh,CT,1.0
+Baloda Bazar,Chhattisgarh,CT,1.0
+Balrampur,Chhattisgarh,CT,1.0
+Balrampur,Uttar Pradesh,UP,2.0
+Bametara,Chhattisgarh,CT,1.0
+Banaskantha,Gujarat,GJ,3.0
+Banda,Uttar Pradesh,UP,2.0
+Bandipora,Jammu and Kashmir,JK,3.0
+Banka,Bihar,BR,2.0
+Bankura,West Bengal,WB,1.0
+Banswara,Rajasthan,RJ,3.0
+Barabanki,Uttar Pradesh,UP,1.0
+Baramulla,Jammu and Kashmir,JK,3.0
+Baran,Rajasthan,RJ,1.0
+Bareilly,Uttar Pradesh,UP,3.0
+Bargarh,Odisha,OR,1.0
+Barmer,Rajasthan,RJ,2.0
+Barnala,Punjab,PB,2.0
+Barpeta,Assam,AS,1.0
+Barwani,Madhya Pradesh,MP,3.0
+Bastar,Chhattisgarh,CT,1.0
+Basti,Uttar Pradesh,UP,2.0
+Bathinda,Punjab,PB,2.0
+Beed,Maharashtra,MH,2.0
+Begusarai,Bihar,BR,2.0
+Belagavi,Karnataka,KA,2.0
+Bengaluru Rural,Karnataka,KA,3.0
+Bengaluru Urban,Karnataka,KA,3.0
+Betul,Madhya Pradesh,MP,2.0
+Bhadohi,Uttar Pradesh,UP,2.0
+Bhadradri Kothagudem,Telangana,TG,1.0
+Bhadrak,Odisha,OR,3.0
+Bhagalpur,Bihar,BR,2.0
+Bhandara,Maharashtra,MH,2.0
+Bharatpur,Rajasthan,RJ,3.0
+Bharuch,Gujarat,GJ,2.0
+Bhavnagar,Gujarat,GJ,3.0
+Bhilwara,Rajasthan,RJ,2.0
+Bhind,Madhya Pradesh,MP,1.0
+Bhiwani,Haryana,HR,2.0
+Bhojpur,Bihar,BR,2.0
+Bhopal,Madhya Pradesh,MP,3.0
+Bidar,Karnataka,KA,2.0
+Bijapur,Chhattisgarh,CT,1.0
+Bijnor,Uttar Pradesh,UP,3.0
+Bikaner,Rajasthan,RJ,2.0
+Bilaspur,Chhattisgarh,CT,1.0
+Bilaspur,Himachal Pradesh,HP,1.0
+Birbhum,West Bengal,WB,2.0
+Bishnupur,Manipur,MN,1.0
+Biswanath,Assam,AS,1.0
+Bokaro,Jharkhand,JH,2.0
+Bongaigaon,Assam,AS,3.0
+Botad,Gujarat,GJ,2.0
+Boudh,Odisha,OR,1.0
+Budaun,Uttar Pradesh,UP,2.0
+Budgam,Jammu and Kashmir,JK,3.0
+Bulandshahr,Uttar Pradesh,UP,3.0
+Buldhana,Maharashtra,MH,2.0
+Bundi,Rajasthan,RJ,1.0
+Burhanpur,Madhya Pradesh,MP,2.0
+Buxar,Bihar,BR,3.0
+Cachar,Assam,AS,2.0
+Chamarajanagara,Karnataka,KA,1.0
+Chamba,Himachal Pradesh,HP,2.0
+Chamoli,Uttarakhand,UT,1.0
+Champawat,Uttarakhand,UT,1.0
+Champhai,Mizoram,MZ,1.0
+Chandauli,Uttar Pradesh,UP,1.0
+Chandel,Manipur,MN,1.0
+Chandigarh,Chandigarh,CH,3.0
+Chandrapur,Maharashtra,MH,2.0
+Changlang,Arunachal Pradesh,AR,1.0
+Charaideo,Assam,AS,1.0
+Charkhi Dadri,Haryana,HR,2.0
+Chatra,Jharkhand,JH,1.0
+Chengalpattu,Tamil Nadu,TN,3.0
+Chennai,Tamil Nadu,TN,3.0
+Chhatarpur,Madhya Pradesh,MP,1.0
+Chhindwara,Madhya Pradesh,MP,2.0
+Chhota Udaipur,Gujarat,GJ,2.0
+Chikkaballapura,Karnataka,KA,2.0
+Chikkamagaluru,Karnataka,KA,1.0
+Chirang,Assam,AS,1.0
+Chitradurga,Karnataka,KA,2.0
+Chitrakoot,Uttar Pradesh,UP,1.0
+Chittoor,Andhra Pradesh,AP,3.0
+Chittorgarh,Rajasthan,RJ,2.0
+Churachandpur,Manipur,MN,1.0
+Churu,Rajasthan,RJ,2.0
+Coimbatore,Tamil Nadu,TN,2.0
+Cooch Behar,West Bengal,WB,1.0
+Cuddalore,Tamil Nadu,TN,2.0
+Cuttack,Odisha,OR,1.0
+Dadra and Nagar Haveli,Dadra and Nagar Haveli and Daman and Diu,DN,2.0
+Dahod,Gujarat,GJ,2.0
+Dakshin Bastar Dantewada,Chhattisgarh,CT,1.0
+Dakshin Dinajpur,West Bengal,WB,1.0
+Dakshina Kannada,Karnataka,KA,2.0
+Daman,Dadra and Nagar Haveli and Daman and Diu,DN,1.0
+Damoh,Madhya Pradesh,MP,1.0
+Dang,Gujarat,GJ,2.0
+Darbhanga,Bihar,BR,2.0
+Darjeeling,West Bengal,WB,2.0
+Darrang,Assam,AS,1.0
+Datia,Madhya Pradesh,MP,1.0
+Dausa,Rajasthan,RJ,2.0
+Davanagere,Karnataka,KA,2.0
+Dehradun,Uttarakhand,UT,2.0
+Delhi,Delhi,DL,3.0
+Deogarh,Odisha,OR,2.0
+Deoghar,Jharkhand,JH,2.0
+Deoria,Uttar Pradesh,UP,2.0
+Devbhumi Dwarka,Gujarat,GJ,2.0
+Dewas,Madhya Pradesh,MP,3.0
+Dhalai,Tripura,TR,3.0
+Dhamtari,Chhattisgarh,CT,1.0
+Dhanbad,Jharkhand,JH,2.0
+Dhar,Madhya Pradesh,MP,3.0
+Dharmapuri,Tamil Nadu,TN,2.0
+Dharwad,Karnataka,KA,2.0
+Dhemaji,Assam,AS,1.0
+Dhenkanal,Odisha,OR,2.0
+Dholpur,Rajasthan,RJ,2.0
+Dhubri,Assam,AS,2.0
+Dhule,Maharashtra,MH,3.0
+Dibrugarh,Assam,AS,1.0
+Dima Hasao,Assam,AS,1.0
+Dimapur,Nagaland,NL,1.0
+Dindigul,Tamil Nadu,TN,2.0
+Dindori,Madhya Pradesh,MP,2.0
+Diu,Dadra and Nagar Haveli and Daman and Diu,DN,1.0
+Doda,Jammu and Kashmir,JK,1.0
+Dumka,Jharkhand,JH,1.0
+Dungarpur,Rajasthan,RJ,2.0
+Durg,Chhattisgarh,CT,1.0
+East Champaran,Bihar,BR,2.0
+East District,Sikkim,SK,1.0
+East Garo Hills,Meghalaya,ML,1.0
+East Godavari,Andhra Pradesh,AP,2.0
+East Jaintia Hills,Meghalaya,ML,1.0
+East Kameng,Arunachal Pradesh,AR,1.0
+East Khasi Hills,Meghalaya,ML,2.0
+East Siang,Arunachal Pradesh,AR,1.0
+East Singhbhum,Jharkhand,JH,1.0
+Ernakulam,Kerala,KL,1.0
+Erode,Tamil Nadu,TN,1.0
+Etah,Uttar Pradesh,UP,2.0
+Etawah,Uttar Pradesh,UP,2.0
+Faridabad,Haryana,HR,3.0
+Faridkot,Punjab,PB,2.0
+Farrukhabad,Uttar Pradesh,UP,1.0
+Fatehabad,Haryana,HR,2.0
+Fatehgarh Sahib,Punjab,PB,2.0
+Fatehpur,Uttar Pradesh,UP,2.0
+Fazilka,Punjab,PB,1.0
+Ferozepur,Punjab,PB,2.0
+Firozabad,Uttar Pradesh,UP,3.0
+Gadag,Karnataka,KA,2.0
+Gadchiroli,Maharashtra,MH,1.0
+Gajapati,Odisha,OR,1.0
+Ganderbal,Jammu and Kashmir,JK,3.0
+Gandhinagar,Gujarat,GJ,3.0
+Ganganagar,Rajasthan,RJ,1.0
+Ganjam,Odisha,OR,3.0
+Garhwa,Jharkhand,JH,2.0
+Gariaband,Chhattisgarh,CT,1.0
+Gautam Buddha Nagar,Uttar Pradesh,UP,3.0
+Gaya,Bihar,BR,3.0
+Ghaziabad,Uttar Pradesh,UP,2.0
+Ghazipur,Uttar Pradesh,UP,2.0
+Gir Somnath,Gujarat,GJ,2.0
+Giridih,Jharkhand,JH,2.0
+Goalpara,Assam,AS,2.0
+Godda,Jharkhand,JH,1.0
+Golaghat,Assam,AS,1.0
+Gomati,Tripura,TR,2.0
+Gonda,Uttar Pradesh,UP,2.0
+Gondia,Maharashtra,MH,1.0
+Gopalganj,Bihar,BR,2.0
+Gorakhpur,Uttar Pradesh,UP,2.0
+Gumla,Jharkhand,JH,1.0
+Guna,Madhya Pradesh,MP,2.0
+Guntur,Andhra Pradesh,AP,3.0
+Gurdaspur,Punjab,PB,2.0
+Gurugram,Haryana,HR,2.0
+Gwalior,Madhya Pradesh,MP,3.0
+Hailakandi,Assam,AS,1.0
+Hamirpur,Himachal Pradesh,HP,2.0
+Hamirpur,Uttar Pradesh,UP,1.0
+Hanumangarh,Rajasthan,RJ,2.0
+Hapur,Uttar Pradesh,UP,2.0
+Harda,Madhya Pradesh,MP,2.0
+Hardoi,Uttar Pradesh,UP,2.0
+Haridwar,Uttarakhand,UT,3.0
+Hassan,Karnataka,KA,2.0
+Hathras,Uttar Pradesh,UP,2.0
+Haveri,Karnataka,KA,2.0
+Hazaribagh,Jharkhand,JH,2.0
+Hingoli,Maharashtra,MH,2.0
+Hisar,Haryana,HR,2.0
+Hnahthial,Mizoram,MZ,1.0
+Hojai,Assam,AS,1.0
+Hooghly,West Bengal,WB,2.0
+Hoshangabad,Madhya Pradesh,MP,2.0
+Hoshiarpur,Punjab,PB,2.0
+Howrah,West Bengal,WB,3.0
+Hyderabad,Telangana,TG,3.0
+Idukki,Kerala,KL,2.0
+Imphal East,Manipur,MN,1.0
+Imphal West,Manipur,MN,1.0
+Indore,Madhya Pradesh,MP,3.0
+Jabalpur,Madhya Pradesh,MP,3.0
+Jagatsinghpur,Odisha,OR,2.0
+Jagtial,Telangana,TG,2.0
+Jaipur,Rajasthan,RJ,3.0
+Jaisalmer,Rajasthan,RJ,2.0
+Jajpur,Odisha,OR,3.0
+Jalandhar,Punjab,PB,3.0
+Jalaun,Uttar Pradesh,UP,2.0
+Jalgaon,Maharashtra,MH,3.0
+Jalna,Maharashtra,MH,2.0
+Jalore,Rajasthan,RJ,2.0
+Jalpaiguri,West Bengal,WB,2.0
+Jammu,Jammu and Kashmir,JK,3.0
+Jamnagar,Gujarat,GJ,2.0
+Jamtara,Jharkhand,JH,2.0
+Jamui,Bihar,BR,1.0
+Jangaon,Telangana,TG,2.0
+Janjgir Champa,Chhattisgarh,CT,1.0
+Jashpur,Chhattisgarh,CT,1.0
+Jaunpur,Uttar Pradesh,UP,2.0
+Jayashankar Bhupalapally,Telangana,TG,2.0
+Jehanabad,Bihar,BR,2.0
+Jhabua,Madhya Pradesh,MP,1.0
+Jhajjar,Haryana,HR,2.0
+Jhalawar,Rajasthan,RJ,3.0
+Jhansi,Uttar Pradesh,UP,2.0
+Jhargram,West Bengal,WB,1.0
+Jharsuguda,Odisha,OR,2.0
+Jhunjhunu,Rajasthan,RJ,2.0
+Jind,Haryana,HR,2.0
+Jiribam,Manipur,MN,1.0
+Jodhpur,Rajasthan,RJ,3.0
+Jogulamba Gadwal,Telangana,TG,2.0
+Jorhat,Assam,AS,1.0
+Junagadh,Gujarat,GJ,1.0
+Kabeerdham,Chhattisgarh,CT,1.0
+Kaimur,Bihar,BR,2.0
+Kaithal,Haryana,HR,2.0
+Kakching,Manipur,MN,1.0
+Kalaburagi,Karnataka,KA,2.0
+Kalahandi,Odisha,OR,2.0
+Kalimpong,West Bengal,WB,2.0
+Kallakurichi,Tamil Nadu,TN,2.0
+Kamareddy,Telangana,TG,2.0
+Kamjong,Manipur,MN,1.0
+Kamle,Arunachal Pradesh,AR,1.0
+Kamrup,Assam,AS,1.0
+Kamrup Metropolitan,Assam,AS,2.0
+Kancheepuram,Tamil Nadu,TN,3.0
+Kandhamal,Odisha,OR,1.0
+Kangpokpi,Manipur,MN,1.0
+Kangra,Himachal Pradesh,HP,2.0
+Kannauj,Uttar Pradesh,UP,2.0
+Kannur,Kerala,KL,3.0
+Kanpur Dehat,Uttar Pradesh,UP,1.0
+Kanpur Nagar,Uttar Pradesh,UP,3.0
+Kanyakumari,Tamil Nadu,TN,2.0
+Kapurthala,Punjab,PB,2.0
+Karaikal,Puducherry,PY,1.0
+Karauli,Rajasthan,RJ,2.0
+Karbi Anglong,Assam,AS,1.0
+Kargil,Ladakh,LA,2.0
+Karimganj,Assam,AS,1.0
+Karimnagar,Telangana,TG,2.0
+Karnal,Haryana,HR,2.0
+Karur,Tamil Nadu,TN,2.0
+Kasaragod,Kerala,KL,2.0
+Kasganj,Uttar Pradesh,UP,2.0
+Kathua,Jammu and Kashmir,JK,3.0
+Katihar,Bihar,BR,2.0
+Katni,Madhya Pradesh,MP,1.0
+Kaushambi,Uttar Pradesh,UP,2.0
+Kendrapara,Odisha,OR,2.0
+Kendujhar,Odisha,OR,2.0
+Khagaria,Bihar,BR,2.0
+Khammam,Telangana,TG,2.0
+Khandwa,Madhya Pradesh,MP,3.0
+Khargone,Madhya Pradesh,MP,2.0
+Khawzawl,Mizoram,MZ,1.0
+Kheda,Gujarat,GJ,2.0
+Khordha,Odisha,OR,2.0
+Khowai,Tripura,TR,1.0
+Khunti,Jharkhand,JH,1.0
+Kinnaur,Himachal Pradesh,HP,1.0
+Kiphire,Nagaland,NL,1.0
+Kishanganj,Bihar,BR,2.0
+Kishtwar,Jammu and Kashmir,JK,1.0
+Kodagu,Karnataka,KA,1.0
+Koderma,Jharkhand,JH,2.0
+Kohima,Nagaland,NL,1.0
+Kokrajhar,Assam,AS,1.0
+Kolar,Karnataka,KA,2.0
+Kolasib,Mizoram,MZ,1.0
+Kolhapur,Maharashtra,MH,2.0
+Kolkata,West Bengal,WB,3.0
+Kollam,Kerala,KL,2.0
+Komaram Bheem,Telangana,TG,2.0
+Kondagaon,Chhattisgarh,CT,1.0
+Koppal,Karnataka,KA,1.0
+Koraput,Odisha,OR,2.0
+Korba,Chhattisgarh,CT,2.0
+Koriya,Chhattisgarh,CT,1.0
+Kota,Rajasthan,RJ,3.0
+Kottayam,Kerala,KL,3.0
+Kozhikode,Kerala,KL,2.0
+Kra Daadi,Arunachal Pradesh,AR,1.0
+Krishna,Andhra Pradesh,AP,3.0
+Krishnagiri,Tamil Nadu,TN,2.0
+Kulgam,Jammu and Kashmir,JK,3.0
+Kullu,Himachal Pradesh,HP,1.0
+Kupwara,Jammu and Kashmir,JK,3.0
+Kurnool,Andhra Pradesh,AP,3.0
+Kurukshetra,Haryana,HR,2.0
+Kurung Kumey,Arunachal Pradesh,AR,1.0
+Kushinagar,Uttar Pradesh,UP,1.0
+Kutch,Gujarat,GJ,2.0
+Lahaul and Spiti,Himachal Pradesh,HP,1.0
+Lakhimpur,Assam,AS,1.0
+Lakhimpur Kheri,Uttar Pradesh,UP,1.0
+Lakhisarai,Bihar,BR,2.0
+Lakshadweep,Lakshadweep,LD,1.0
+Lalitpur,Uttar Pradesh,UP,1.0
+Latehar,Jharkhand,JH,1.0
+Latur,Maharashtra,MH,2.0
+Lawngtlai,Mizoram,MZ,1.0
+Leh,Ladakh,LA,2.0
+Lepa Rada,Arunachal Pradesh,AR,1.0
+Lohardaga,Jharkhand,JH,1.0
+Lohit,Arunachal Pradesh,AR,1.0
+Longding,Arunachal Pradesh,AR,1.0
+Longleng,Nagaland,NL,1.0
+Lower Dibang Valley,Arunachal Pradesh,AR,1.0
+Lower Siang,Arunachal Pradesh,AR,1.0
+Lower Subansiri,Arunachal Pradesh,AR,1.0
+Lucknow,Uttar Pradesh,UP,3.0
+Ludhiana,Punjab,PB,3.0
+Lunglei,Mizoram,MZ,1.0
+Madhepura,Bihar,BR,2.0
+Madhubani,Bihar,BR,2.0
+Madurai,Tamil Nadu,TN,3.0
+Mahabubabad,Telangana,TG,1.0
+Mahabubnagar,Telangana,TG,2.0
+Maharajganj,Uttar Pradesh,UP,1.0
+Mahasamund,Chhattisgarh,CT,1.0
+Mahe,Puducherry,PY,1.0
+Mahendragarh,Haryana,HR,2.0
+Mahisagar,Gujarat,GJ,2.0
+Mahoba,Uttar Pradesh,UP,1.0
+Mainpuri,Uttar Pradesh,UP,2.0
+Majuli,Assam,AS,1.0
+Malappuram,Kerala,KL,2.0
+Malda,West Bengal,WB,2.0
+Malkangiri,Odisha,OR,1.0
+Mamit,Mizoram,MZ,1.0
+Mancherial,Telangana,TG,2.0
+Mandi,Himachal Pradesh,HP,1.0
+Mandla,Madhya Pradesh,MP,1.0
+Mandsaur,Madhya Pradesh,MP,2.0
+Mandya,Karnataka,KA,2.0
+Mansa,Punjab,PB,2.0
+Mathura,Uttar Pradesh,UP,3.0
+Mau,Uttar Pradesh,UP,2.0
+Mayurbhanj,Odisha,OR,2.0
+Medak,Telangana,TG,2.0
+Medchal Malkajgiri,Telangana,TG,3.0
+Meerut,Uttar Pradesh,UP,3.0
+Mehsana,Gujarat,GJ,2.0
+Mirpur,Jammu and Kashmir,JK,
+Mirzapur,Uttar Pradesh,UP,2.0
+Moga,Punjab,PB,2.0
+Mokokchung,Nagaland,NL,1.0
+Mon,Nagaland,NL,1.0
+Moradabad,Uttar Pradesh,UP,3.0
+Morbi,Gujarat,GJ,1.0
+Morena,Madhya Pradesh,MP,2.0
+Morigaon,Assam,AS,2.0
+Mulugu,Telangana,TG,1.0
+Mumbai,Maharashtra,MH,3.0
+Mumbai Suburban,Maharashtra,MH,3.0
+Mungeli,Chhattisgarh,CT,1.0
+Munger,Bihar,BR,3.0
+Murshidabad,West Bengal,WB,2.0
+Muzaffarabad,Jammu and Kashmir,JK,
+Muzaffarnagar,Uttar Pradesh,UP,3.0
+Muzaffarpur,Bihar,BR,2.0
+Mysuru,Karnataka,KA,3.0
+Nabarangapur,Odisha,OR,1.0
+Nadia,West Bengal,WB,2.0
+Nagaon,Assam,AS,1.0
+Nagapattinam,Tamil Nadu,TN,2.0
+Nagarkurnool,Telangana,TG,1.0
+Nagaur,Rajasthan,RJ,3.0
+Nagpur,Maharashtra,MH,3.0
+Nainital,Uttarakhand,UT,2.0
+Nalanda,Bihar,BR,2.0
+Nalbari,Assam,AS,1.0
+Nalgonda,Telangana,TG,2.0
+Namakkal,Tamil Nadu,TN,3.0
+Namsai,Arunachal Pradesh,AR,1.0
+Nanded,Maharashtra,MH,2.0
+Nandurbar,Maharashtra,MH,2.0
+Narayanpet,Telangana,TG,2.0
+Narayanpur,Chhattisgarh,CT,1.0
+Narmada,Gujarat,GJ,2.0
+Narsinghpur,Madhya Pradesh,MP,1.0
+Nashik,Maharashtra,MH,3.0
+Navsari,Gujarat,GJ,2.0
+Nawada,Bihar,BR,2.0
+Nayagarh,Odisha,OR,2.0
+Neemuch,Madhya Pradesh,MP,2.0
+Nicobars,Andaman and Nicobar Islands,AN,1.0
+Nilgiris,Tamil Nadu,TN,2.0
+Nirmal,Telangana,TG,2.0
+Niwari,Madhya Pradesh,MP,1.0
+Nizamabad,Telangana,TG,2.0
+Noney,Manipur,MN,1.0
+North 24 Parganas,West Bengal,WB,3.0
+North District,Sikkim,SK,1.0
+North Garo Hills,Meghalaya,ML,1.0
+North Goa,Goa,GA,1.0
+North Tripura,Tripura,TR,2.0
+North and Middle Andaman,Andaman and Nicobar Islands,AN,1.0
+Nuapada,Odisha,OR,1.0
+Nuh,Haryana,HR,2.0
+Osmanabad,Maharashtra,MH,1.0
+Pakke Kessang,Arunachal Pradesh,AR,1.0
+Pakur,Jharkhand,JH,1.0
+Palakkad,Kerala,KL,2.0
+Palamu,Jharkhand,JH,2.0
+Palghar,Maharashtra,MH,3.0
+Pali,Rajasthan,RJ,2.0
+Palwal,Haryana,HR,2.0
+Panchkula,Haryana,HR,2.0
+Panchmahal,Gujarat,GJ,3.0
+Panipat,Haryana,HR,2.0
+Panna,Madhya Pradesh,MP,1.0
+Papum Pare,Arunachal Pradesh,AR,1.0
+Parbhani,Maharashtra,MH,2.0
+Paschim Bardhaman,West Bengal,WB,2.0
+Paschim Medinipur,West Bengal,WB,2.0
+Patan,Gujarat,GJ,2.0
+Pathanamthitta,Kerala,KL,2.0
+Pathankot,Punjab,PB,2.0
+Patiala,Punjab,PB,3.0
+Patna,Bihar,BR,3.0
+Pauri Garhwal,Uttarakhand,UT,1.0
+Peddapalli,Telangana,TG,1.0
+Perambalur,Tamil Nadu,TN,2.0
+Peren,Nagaland,NL,1.0
+Phek,Nagaland,NL,1.0
+Pherzawl,Manipur,MN,1.0
+Pilibhit,Uttar Pradesh,UP,2.0
+Pithoragarh,Uttarakhand,UT,1.0
+Porbandar,Gujarat,GJ,1.0
+Prakasam,Andhra Pradesh,AP,2.0
+Pratapgarh,Rajasthan,RJ,1.0
+Pratapgarh,Uttar Pradesh,UP,2.0
+Prayagraj,Uttar Pradesh,UP,2.0
+Puducherry,Puducherry,PY,2.0
+Pudukkottai,Tamil Nadu,TN,2.0
+Pulwama,Jammu and Kashmir,JK,3.0
+Punch,Jammu and Kashmir,JK,1.0
+Pune,Maharashtra,MH,3.0
+Purba Bardhaman,West Bengal,WB,2.0
+Purba Medinipur,West Bengal,WB,3.0
+Puri,Odisha,OR,1.0
+Purnia,Bihar,BR,2.0
+Purulia,West Bengal,WB,1.0
+Rae Bareli,Uttar Pradesh,UP,3.0
+Raichur,Karnataka,KA,1.0
+Raigad,Maharashtra,MH,2.0
+Raigarh,Chhattisgarh,CT,1.0
+Raipur,Chhattisgarh,CT,3.0
+Raisen,Madhya Pradesh,MP,2.0
+Rajanna Sircilla,Telangana,TG,2.0
+Rajgarh,Madhya Pradesh,MP,1.0
+Rajkot,Gujarat,GJ,2.0
+Rajnandgaon,Chhattisgarh,CT,1.0
+Rajouri,Jammu and Kashmir,JK,2.0
+Rajsamand,Rajasthan,RJ,2.0
+Ramanagara,Karnataka,KA,1.0
+Ramanathapuram,Tamil Nadu,TN,2.0
+Ramban,Jammu and Kashmir,JK,2.0
+Ramgarh,Jharkhand,JH,1.0
+Rampur,Uttar Pradesh,UP,3.0
+Ranchi,Jharkhand,JH,3.0
+Ranga Reddy,Telangana,TG,3.0
+Ranipet,Tamil Nadu,TN,3.0
+Ratlam,Madhya Pradesh,MP,2.0
+Ratnagiri,Maharashtra,MH,2.0
+Rayagada,Odisha,OR,1.0
+Reasi,Jammu and Kashmir,JK,2.0
+Rewa,Madhya Pradesh,MP,1.0
+Rewari,Haryana,HR,1.0
+Ribhoi,Meghalaya,ML,1.0
+Rohtak,Haryana,HR,2.0
+Rohtas,Bihar,BR,3.0
+Rudraprayag,Uttarakhand,UT,1.0
+Rupnagar,Punjab,PB,1.0
+S.A.S. Nagar,Punjab,PB,2.0
+S.P.S. Nellore,Andhra Pradesh,AP,3.0
+Sabarkantha,Gujarat,GJ,2.0
+Sagar,Madhya Pradesh,MP,2.0
+Saharanpur,Uttar Pradesh,UP,3.0
+Saharsa,Bihar,BR,2.0
+Sahibganj,Jharkhand,JH,1.0
+Saiha,Mizoram,MZ,1.0
+Saitual,Mizoram,MZ,1.0
+Salem,Tamil Nadu,TN,2.0
+Samastipur,Bihar,BR,2.0
+Samba,Jammu and Kashmir,JK,3.0
+Sambalpur,Odisha,OR,1.0
+Sambhal,Uttar Pradesh,UP,2.0
+Sangareddy,Telangana,TG,2.0
+Sangli,Maharashtra,MH,2.0
+Sangrur,Punjab,PB,2.0
+Sant Kabir Nagar,Uttar Pradesh,UP,3.0
+Saraikela-Kharsawan,Jharkhand,JH,1.0
+Saran,Bihar,BR,2.0
+Satara,Maharashtra,MH,3.0
+Satna,Madhya Pradesh,MP,1.0
+Sawai Madhopur,Rajasthan,RJ,2.0
+Sehore,Madhya Pradesh,MP,2.0
+Senapati,Manipur,MN,1.0
+Seoni,Madhya Pradesh,MP,1.0
+Serchhip,Mizoram,MZ,1.0
+Shahdol,Madhya Pradesh,MP,2.0
+Shahid Bhagat Singh Nagar,Punjab,PB,2.0
+Shahjahanpur,Uttar Pradesh,UP,1.0
+Shajapur,Madhya Pradesh,MP,2.0
+Shamli,Uttar Pradesh,UP,2.0
+Sheikhpura,Bihar,BR,2.0
+Sheohar,Bihar,BR,2.0
+Sheopur,Madhya Pradesh,MP,2.0
+Shi Yomi,Arunachal Pradesh,AR,1.0
+Shimla,Himachal Pradesh,HP,2.0
+Shivamogga,Karnataka,KA,2.0
+Shivpuri,Madhya Pradesh,MP,1.0
+Shopiyan,Jammu and Kashmir,JK,3.0
+Shrawasti,Uttar Pradesh,UP,2.0
+Siang,Arunachal Pradesh,AR,1.0
+Siddharthnagar,Uttar Pradesh,UP,1.0
+Siddipet,Telangana,TG,1.0
+Sidhi,Madhya Pradesh,MP,1.0
+Sikar,Rajasthan,RJ,2.0
+Simdega,Jharkhand,JH,2.0
+Sindhudurg,Maharashtra,MH,2.0
+Singrauli,Madhya Pradesh,MP,1.0
+Sipahijala,Tripura,TR,1.0
+Sirmaur,Himachal Pradesh,HP,2.0
+Sirohi,Rajasthan,RJ,2.0
+Sirsa,Haryana,HR,2.0
+Sitamarhi,Bihar,BR,1.0
+Sitapur,Uttar Pradesh,UP,2.0
+Sivaganga,Tamil Nadu,TN,2.0
+Sivasagar,Assam,AS,1.0
+Siwan,Bihar,BR,2.0
+Solan,Himachal Pradesh,HP,2.0
+Solapur,Maharashtra,MH,3.0
+Sonbhadra,Uttar Pradesh,UP,1.0
+Sonipat,Haryana,HR,3.0
+Sonitpur,Assam,AS,1.0
+South 24 Parganas,West Bengal,WB,2.0
+South Andaman,Andaman and Nicobar Islands,AN,3.0
+South District,Sikkim,SK,1.0
+South Garo Hills,Meghalaya,ML,1.0
+South Goa,Goa,GA,1.0
+South Salmara Mankachar,Assam,AS,1.0
+South Tripura,Tripura,TR,1.0
+South West Garo Hills,Meghalaya,ML,1.0
+South West Khasi Hills,Meghalaya,ML,1.0
+Sri Muktsar Sahib,Punjab,PB,2.0
+Srikakulam,Andhra Pradesh,AP,2.0
+Srinagar,Jammu and Kashmir,JK,3.0
+Subarnapur,Odisha,OR,1.0
+Sukma,Chhattisgarh,CT,1.0
+Sultanpur,Uttar Pradesh,UP,2.0
+Sundargarh,Odisha,OR,2.0
+Supaul,Bihar,BR,2.0
+Surajpur,Chhattisgarh,CT,1.0
+Surat,Gujarat,GJ,3.0
+Surendranagar,Gujarat,GJ,2.0
+Surguja,Chhattisgarh,CT,1.0
+Suryapet,Telangana,TG,3.0
+Tamenglong,Manipur,MN,1.0
+Tapi,Gujarat,GJ,2.0
+Tarn Taran,Punjab,PB,2.0
+Tawang,Arunachal Pradesh,AR,1.0
+Tehri Garhwal,Uttarakhand,UT,1.0
+Tengnoupal,Manipur,MN,1.0
+Tenkasi,Tamil Nadu,TN,2.0
+Thane,Maharashtra,MH,3.0
+Thanjavur,Tamil Nadu,TN,3.0
+Theni,Tamil Nadu,TN,2.0
+Thiruvallur,Tamil Nadu,TN,3.0
+Thiruvananthapuram,Kerala,KL,2.0
+Thiruvarur,Tamil Nadu,TN,3.0
+Thoothukkudi,Tamil Nadu,TN,2.0
+Thoubal,Manipur,MN,1.0
+Thrissur,Kerala,KL,1.0
+Tikamgarh,Madhya Pradesh,MP,2.0
+Tinsukia,Assam,AS,1.0
+Tirap,Arunachal Pradesh,AR,1.0
+Tiruchirappalli,Tamil Nadu,TN,2.0
+Tirunelveli,Tamil Nadu,TN,2.0
+Tirupathur,Tamil Nadu,TN,2.0
+Tiruppur,Tamil Nadu,TN,3.0
+Tiruvannamalai,Tamil Nadu,TN,2.0
+Tonk,Rajasthan,RJ,2.0
+Tuensang,Nagaland,NL,1.0
+Tumakuru,Karnataka,KA,2.0
+Udaipur,Rajasthan,RJ,2.0
+Udalguri,Assam,AS,1.0
+Udham Singh Nagar,Uttarakhand,UT,2.0
+Udhampur,Jammu and Kashmir,JK,2.0
+Udupi,Karnataka,KA,2.0
+Ujjain,Madhya Pradesh,MP,3.0
+Ukhrul,Manipur,MN,1.0
+Umaria,Madhya Pradesh,MP,1.0
+Una,Himachal Pradesh,HP,2.0
+Unnao,Uttar Pradesh,UP,2.0
+Unokoti,Tripura,TR,1.0
+Upper Dibang Valley,Arunachal Pradesh,AR,1.0
+Upper Siang,Arunachal Pradesh,AR,1.0
+Upper Subansiri,Arunachal Pradesh,AR,1.0
+Uttar Bastar Kanker,Chhattisgarh,CT,1.0
+Uttar Dinajpur,West Bengal,WB,1.0
+Uttara Kannada,Karnataka,KA,2.0
+Uttarkashi,Uttarakhand,UT,1.0
+Vadodara,Gujarat,GJ,3.0
+Vaishali,Bihar,BR,2.0
+Valsad,Gujarat,GJ,2.0
+Varanasi,Uttar Pradesh,UP,3.0
+Vellore,Tamil Nadu,TN,3.0
+Vidisha,Madhya Pradesh,MP,2.0
+Vijayapura,Karnataka,KA,2.0
+Vikarabad,Telangana,TG,3.0
+Viluppuram,Tamil Nadu,TN,2.0
+Virudhunagar,Tamil Nadu,TN,3.0
+Visakhapatnam,Andhra Pradesh,AP,2.0
+Vizianagaram,Andhra Pradesh,AP,2.0
+Wanaparthy,Telangana,TG,1.0
+Warangal Rural,Telangana,TG,1.0
+Warangal Urban,Telangana,TG,3.0
+Wardha,Maharashtra,MH,1.0
+Washim,Maharashtra,MH,1.0
+Wayanad,Kerala,KL,2.0
+West Champaran,Bihar,BR,1.0
+West District,Sikkim,SK,1.0
+West Garo Hills,Meghalaya,ML,1.0
+West Godavari,Andhra Pradesh,AP,2.0
+West Jaintia Hills,Meghalaya,ML,1.0
+West Kameng,Arunachal Pradesh,AR,1.0
+West Karbi Anglong,Assam,AS,1.0
+West Khasi Hills,Meghalaya,ML,1.0
+West Siang,Arunachal Pradesh,AR,1.0
+West Singhbhum,Jharkhand,JH,1.0
+West Tripura,Tripura,TR,1.0
+Wokha,Nagaland,NL,1.0
+Y.S.R. Kadapa,Andhra Pradesh,AP,2.0
+Yadadri Bhuvanagiri,Telangana,TG,1.0
+Yadgir,Karnataka,KA,1.0
+Yamunanagar,Haryana,HR,2.0
+Yanam,Puducherry,PY,1.0
+Yavatmal,Maharashtra,MH,3.0
+Zunheboto,Nagaland,NL,1.0

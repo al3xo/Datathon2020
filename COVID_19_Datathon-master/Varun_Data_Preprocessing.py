@@ -28,6 +28,9 @@ def refine_zones(df):
     #Green-1, Orange-2, Red-3
     df['zone'] = df['zone'].replace(['Green', 'Orange','Red'], [1, 2, 3])
     df = df.drop(['districtcode', 'lastupdated', 'source'], axis=1)
+    delhi = df['state'].eq('Delhi')
+    df.loc[delhi, 'district'] = 'Delhi'
+    df = df.groupby(['district', 'state']).agg('max')
     return df
 
 def refine_icmr(df):
