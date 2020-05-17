@@ -34,6 +34,8 @@ def main():
     merged.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\final_merge_cleaned.csv", encoding="cp1252")
 
     with_state_totals = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\final_plus_state.csv")
+    with_state_totals = with_state_totals.drop_duplicates(['State', 'district', 'DaysFromFirstDate'])
+    with_state_totals.to_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\final_plus_state.csv")
     districts = ['Mumbai', 'Delhi', 'Ahmedabad', 'Chennai']
     states = ['Maharashtra', 'Delhi', 'Tamil Nadu', 'Gujarat']
     instate = with_state_totals['State'].isin(states)
