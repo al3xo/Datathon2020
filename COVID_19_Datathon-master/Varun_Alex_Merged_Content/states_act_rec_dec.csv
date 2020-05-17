@@ -1,0 +1,105 @@
+,dffd,st,state_active,state_recovered,state_deceased
+0,0,Bihar,44,0,0
+1,0,Gujarat,618,0,0
+2,0,Karnataka,16,0,0
+3,0,Kerala,99,218,0
+4,1,Bihar,43,8,0
+5,1,Gujarat,633,37,24
+6,1,Kerala,79,78,0
+7,1,Punjab,11,1,2
+8,1,Tamil Nadu,473,179,0
+9,2,Bihar,63,28,1
+10,2,Gujarat,652,108,36
+11,2,Karnataka,40,0,0
+12,2,Kerala,25,30,0
+13,2,Tamil Nadu,759,202,0
+14,3,Bihar,134,14,1
+15,3,Karnataka,20,10,2
+16,3,Kerala,18,157,0
+17,3,Tamil Nadu,583,212,0
+18,4,Bihar,128,16,2
+19,4,Jharkhand,30,0,0
+20,4,Karnataka,26,21,4
+21,4,Kerala,68,65,1
+22,4,Tamil Nadu,523,145,0
+23,5,Bihar,85,14,1
+24,5,Chandigarh,19,17,0
+25,5,Karnataka,5,11,2
+26,5,Tamil Nadu,802,155,0
+27,6,Bihar,202,27,1
+28,6,Chandigarh,28,17,0
+29,6,Karnataka,21,15,2
+30,6,Kerala,17,3,0
+31,6,Maharashtra,4547,641,219
+32,6,Punjab,58,2,1
+33,6,Rajasthan,562,244,27
+34,6,Tamil Nadu,561,145,0
+35,7,Bihar,130,15,1
+36,7,Chandigarh,39,17,0
+37,7,Jammu and Kashmir,34,50,2
+38,7,Karnataka,4,0,1
+39,7,Rajasthan,84,98,7
+40,7,Tamil Nadu,503,247,8
+41,8,Bihar,145,12,1
+42,8,Chandigarh,51,17,0
+43,8,Gujarat,747,143,39
+44,8,Karnataka,1,2,0
+45,8,Rajasthan,568,283,30
+46,8,Tamil Nadu,615,272,16
+47,9,Bihar,171,24,1
+48,9,Chhattisgarh,0,28,0
+49,9,Gujarat,766,165,46
+50,9,Haryana,11,41,1
+51,9,Karnataka,9,13,3
+52,9,Tamil Nadu,797,352,18
+53,10,Bihar,151,18,0
+54,10,Chandigarh,70,18,0
+55,10,Gujarat,733,168,47
+56,10,Karnataka,53,30,5
+57,10,Tamil Nadu,991,563,22
+58,11,Bihar,81,7,0
+59,11,Gujarat,3623,734,242
+60,11,Haryana,1,11,2
+61,11,Karnataka,18,23,4
+62,11,Rajasthan,1116,568,47
+63,11,Tamil Nadu,1217,651,22
+64,11,Uttarakhand,14,19,0
+65,12,Bihar,173,58,1
+66,12,Chandigarh,77,19,1
+67,12,Tamil Nadu,1377,540,22
+68,13,Bihar,32,5,0
+69,13,Chandigarh,80,21,1
+70,13,Gujarat,3902,973,292
+71,13,Karnataka,68,31,5
+72,13,Maharashtra,951,339,106
+73,14,Bihar,17,25,0
+74,14,Chandigarh,93,21,1
+75,14,Chhattisgarh,9,1,0
+76,14,Himachal Pradesh,1,0,0
+77,14,Karnataka,57,25,6
+78,14,Mizoram,0,1,0
+79,14,Tamil Nadu,2265,797,27
+80,15,Bihar,71,15,0
+81,15,Chandigarh,102,21,1
+82,15,Karnataka,12,7,3
+83,15,Maharashtra,145,22,8
+84,15,Tamil Nadu,3035,909,31
+85,16,Bihar,87,49,1
+86,16,Chandigarh,112,21,1
+87,16,Karnataka,47,8,4
+88,16,Maharashtra,9264,1694,436
+89,16,Tamil Nadu,2432,389,24
+90,17,Bihar,91,69,0
+91,17,Chandigarh,124,21,1
+92,17,Himachal Pradesh,3,6,0
+93,17,Karnataka,71,14,4
+94,17,Kerala,1,23,1
+95,17,Tamil Nadu,3703,754,33
+96,18,Bihar,133,166,3
+97,18,Chandigarh,143,24,2
+98,18,Chhattisgarh,11,5,0
+99,18,Gujarat,21,0,2
+100,18,Karnataka,122,46,10
+101,18,Kerala,2,23,1
+102,18,Maharashtra,533,42,20
+103,18,Tamil Nadu,4257,999,36
