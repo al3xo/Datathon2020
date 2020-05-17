@@ -58,48 +58,49 @@
 56,10,Karnataka,53,30,5
 57,10,Tamil Nadu,991,563,22
 58,11,Bihar,81,7,0
-59,11,Gujarat,3623,734,242
-60,11,Haryana,1,11,2
-61,11,Karnataka,18,23,4
-62,11,Rajasthan,1116,568,47
-63,11,Tamil Nadu,1217,651,22
-64,11,Uttarakhand,14,19,0
-65,12,Bihar,173,58,1
-66,12,Chandigarh,77,19,1
-67,12,Tamil Nadu,1377,540,22
-68,13,Bihar,32,5,0
-69,13,Chandigarh,80,21,1
-70,13,Gujarat,3902,973,292
-71,13,Karnataka,68,31,5
-72,13,Maharashtra,951,339,106
-73,14,Bihar,17,25,0
-74,14,Chandigarh,93,21,1
-75,14,Chhattisgarh,9,1,0
-76,14,Himachal Pradesh,1,0,0
-77,14,Karnataka,57,25,6
-78,14,Mizoram,0,1,0
-79,14,Tamil Nadu,2265,797,27
-80,15,Bihar,71,15,0
-81,15,Chandigarh,102,21,1
-82,15,Karnataka,12,7,3
-83,15,Maharashtra,145,22,8
-84,15,Tamil Nadu,3035,909,31
-85,16,Bihar,87,49,1
-86,16,Chandigarh,112,21,1
-87,16,Karnataka,47,8,4
-88,16,Maharashtra,9264,1694,436
-89,16,Tamil Nadu,2432,389,24
-90,17,Bihar,91,69,0
-91,17,Chandigarh,124,21,1
-92,17,Himachal Pradesh,3,6,0
-93,17,Karnataka,71,14,4
-94,17,Kerala,1,23,1
-95,17,Tamil Nadu,3703,754,33
-96,18,Bihar,133,166,3
-97,18,Chandigarh,143,24,2
-98,18,Chhattisgarh,11,5,0
-99,18,Gujarat,21,0,2
-100,18,Karnataka,122,46,10
-101,18,Kerala,2,23,1
-102,18,Maharashtra,533,42,20
-103,18,Tamil Nadu,4257,999,36
+59,11,Delhi,788,1256,64
+60,11,Gujarat,3623,734,242
+61,11,Haryana,1,11,2
+62,11,Karnataka,18,23,4
+63,11,Rajasthan,1116,568,47
+64,11,Tamil Nadu,1217,651,22
+65,11,Uttarakhand,14,19,0
+66,12,Bihar,173,58,1
+67,12,Chandigarh,77,19,1
+68,12,Tamil Nadu,1377,540,22
+69,13,Bihar,32,5,0
+70,13,Chandigarh,80,21,1
+71,13,Gujarat,3902,973,292
+72,13,Karnataka,68,31,5
+73,13,Maharashtra,951,339,106
+74,14,Bihar,17,25,0
+75,14,Chandigarh,93,21,1
+76,14,Chhattisgarh,9,1,0
+77,14,Himachal Pradesh,1,0,0
+78,14,Karnataka,57,25,6
+79,14,Mizoram,0,1,0
+80,14,Tamil Nadu,2265,797,27
+81,15,Bihar,71,15,0
+82,15,Chandigarh,102,21,1
+83,15,Karnataka,12,7,3
+84,15,Maharashtra,145,22,8
+85,15,Tamil Nadu,3035,909,31
+86,16,Bihar,87,49,1
+87,16,Chandigarh,112,21,1
+88,16,Karnataka,47,8,4
+89,16,Maharashtra,9264,1694,436
+90,16,Tamil Nadu,2432,389,24
+91,17,Bihar,91,69,0
+92,17,Chandigarh,124,21,1
+93,17,Himachal Pradesh,3,6,0
+94,17,Karnataka,71,14,4
+95,17,Kerala,1,23,1
+96,17,Tamil Nadu,3703,754,33
+97,18,Bihar,133,166,3
+98,18,Chandigarh,143,24,2
+99,18,Chhattisgarh,11,5,0
+100,18,Gujarat,21,0,2
+101,18,Karnataka,122,46,10
+102,18,Kerala,2,23,1
+103,18,Maharashtra,533,42,20
+104,18,Tamil Nadu,4257,999,36
