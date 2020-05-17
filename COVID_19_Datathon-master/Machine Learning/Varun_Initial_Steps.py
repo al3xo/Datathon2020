@@ -118,7 +118,7 @@ def elastic_net(df):
 
 def main():
     #40 seems to be the general highest accuracy for k best
-    df = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\final_merge_cleaned.csv") 
+    df = pd.read_csv(r"C:\Users\Alex Omusoru\Documents\GitHub\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\final_merge_cleaned.csv") 
     #svr(df) # - not very accurate. Around 30%
     #model(df) # - fairly accurate. Common and averages around 70%
     #lasso_cv(df) # - fairly accurate. Common and averages around 70% with default CV and manual CV

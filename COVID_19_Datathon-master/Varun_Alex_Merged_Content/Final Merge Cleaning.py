@@ -19,7 +19,6 @@ def main():
 
     conn = sql.connect(':memory:')
     final.to_sql('final', conn, index=False)
-    final.to_sql('state', conn, index=False)
 
     qry = '''
     SELECT *
