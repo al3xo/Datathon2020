@@ -4,6 +4,8 @@ from itertools import groupby
 from collections import OrderedDict
 import matplotlib.pyplot as plt 
 import seaborn as sns
+from sklearn.feature_selection import SelectKBest
+from sklearn.feature_selection import f_regression
 
 def select_k_best(df, k):
     X = df.drop(['Won'], axis=1)
@@ -30,7 +32,9 @@ def remove_high_correlation(df):
 def main():
     final = pd.read_csv(r"C:\Users\dswhi\OneDrive\Documents\UW Class Work\Dubstech\Datathon 3\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\final-merge.csv", encoding='cp1252')
     final = final.drop(['Contracted_from_which Patient_Suspected', 'Notes', 'Type_of_transmission',
-     'Unnamed: 0_x', 'Unnamed: 0_y', 'Sno'], axis=1)
+     'Unnamed: 0_x', 'Unnamed: 0_y', 'Sno', 'statecode', 'Age_Bracket'], axis=1)
+    final = pd.get_dummies(final, columns=['Gender']).drop('Unnamed: 0', axis=1)
+    
     
 
 if __name__=="__main__":
