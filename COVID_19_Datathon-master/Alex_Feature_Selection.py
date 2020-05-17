@@ -48,14 +48,7 @@ def censusMerger(district, state):
     
 
 def main():
-    patient_city_district_may_5_refined = pd.read_csv(r"C:\Users\Alex Omusoru\Documents\GitHub\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\patient-city-district-refined.csv")
-    districts_daily_refined = pd.read_csv(r"C:\Users\Alex Omusoru\Documents\GitHub\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\districts-daily-refined.csv")
-    statewise_testing_refined = pd.read_csv(r"C:\Users\Alex Omusoru\Documents\GitHub\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\statewise-testing-refined.csv")
-    zones_refined = pd.read_csv(r"C:\Users\Alex Omusoru\Documents\GitHub\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\zones-refined.csv")
-    
-    hospital_beds = pd.read_csv(r"C:\Users\Alex Omusoru\Documents\GitHub\Datathon2020\COVID_19_Datathon-master\additional_data\HospitalBedsIndia.csv")
-    icmr = pd.read_csv(r"C:\Users\Alex Omusoru\Documents\GitHub\Datathon2020\COVID_19_Datathon-master\additional_data\ICMRTestingLabs.csv")
-    district_census = pd.read_csv(r"C:\Users\Alex Omusoru\Documents\GitHub\Datathon2020\COVID_19_Datathon-master\additional_data\district_population_india_census2011.csv")
+    district_census = pd.read_csv(r"C:\Users\Alex Omusoru\Documents\GitHub\Datathon2020\COVID_19_Datathon-master\Varun_Preprocessed_Data1\district-census-refined.csv")
     state_census = pd.read_csv(r"C:\Users\Alex Omusoru\Documents\GitHub\Datathon2020\COVID_19_Datathon-master\additional_data\state_population_india_census2011.csv")
 
     # print(patient_city_district_may_5_refined.columns) #Date_Announced, City, District, State
