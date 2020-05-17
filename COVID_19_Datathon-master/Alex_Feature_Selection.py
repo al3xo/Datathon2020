@@ -44,8 +44,7 @@ def censusMerger(district, state):
     FROM state join district on LOWER(state.State__Union_Territory) = LOWER(district.State_name)
     '''
     df = pd.read_sql_query(qry, conn)
-    
-    df.to_csv(r"C:\Users\Alex Omusoru\Documents\GitHub\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\census_merge.csv")
+    df.to_csv(r"C:\Users\Alex Omusoru\Documents\GitHub\Datathon2020\COVID_19_Datathon-master\Varun_Alex_Merged_Content\census_merge.csv", encoding="cp1252")
     
 
 def main():
